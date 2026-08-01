@@ -1,0 +1,8 @@
+# Release artifacts are uploaded to GitHub Releases, not committed to Git.
+*.exe
+*.zip
+*.7z
+*.rar
+*.pdb
+Output/
+
