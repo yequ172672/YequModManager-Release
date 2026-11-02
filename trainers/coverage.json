@@ -1,0 +1,1567 @@
+{
+  "generated_utc": "2026-11-02T10:38:47.898Z",
+  "preset_count": 260,
+  "games": [
+    {
+      "game_id": "eldenring",
+      "name": "Elden Ring",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "darksouls3",
+      "name": "Dark Souls III",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "007firstlight",
+      "name": "007 First Light",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "7daystodie",
+      "name": "7 Days to Die",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "hellisus",
+      "name": "Hell is Us",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "lostsoulaside",
+      "name": "Lost Soul Aside (staged deployment)",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "bellwright",
+      "name": "Bellwright",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "unrealtournament2004",
+      "name": "Unreal Tournament 2004",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "nwn",
+      "name": "Neverwinter Nights (Classic)",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "wolfenstein2009",
+      "name": "Wolfenstein (2009)",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "horizonzerodawn",
+      "name": "Horizon Zero Dawn",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "acecombat7skiesunknown",
+      "name": "Ace Combat 7: Skies Unknown",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "projectwingman",
+      "name": "Project Wingman",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "blackmesa",
+      "name": "Black Mesa",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "halflife2",
+      "name": "Half-Life 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "starwarsjedifallenorder",
+      "name": "Star Wars Jedi: Fallen Order",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "starwarsjedisurvivor",
+      "name": "Star Wars Jedi: Survivor",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "farmingsimulator19",
+      "name": "Farming Simulator 19",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "warthunder",
+      "name": "War Thunder",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "theriftbreaker",
+      "name": "The Riftbreaker",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "sunlesssea",
+      "name": "Sunless Sea",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "residentevil5goldedition",
+      "name": "Resident Evil 5 Gold Edition",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "residentevil6",
+      "name": "Resident Evil 6",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "prey2017",
+      "name": "Prey",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "systemshock225thanniversaryremaster",
+      "name": "System Shock 2: 25th Anniversary Remaster",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "torchlight2",
+      "name": "Torchlight II",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "divinityoriginalsin2",
+      "name": "Divinity: Original Sin 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "divinityoriginalsin2definitiveedition",
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "farmingsimulator25",
+      "name": "Farming Simulator 25",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "europauniversalisv",
+      "name": "Europa Universalis V",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "readyornot",
+      "name": "Ready or Not",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "aliensdarkdescent",
+      "name": "Aliens: Dark Descent",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "factorio",
+      "name": "Factorio",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "prisonarchitect",
+      "name": "Prison Architect",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "avowed",
+      "name": "Avowed",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "cronosthenewdawn",
+      "name": "Cronos: The New Dawn",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "mechwarrior5clans",
+      "name": "MechWarrior 5: Clans",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "metalgearsoliddeltasnakeeater",
+      "name": "Metal Gear Solid Delta: Snake Eater",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "nobodywantstodie",
+      "name": "Nobody Wants to Die",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "robocoproguecity",
+      "name": "RoboCop: Rogue City",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "silenthill2",
+      "name": "Silent Hill 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "stalker2heartofchornobyl",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "untildawn",
+      "name": "Until Dawn",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragonquest1and2hd2dremake",
+      "name": "Dragon Quest I & II HD-2D Remake",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "ofashandsteel",
+      "name": "Of Ash and Steel",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "warhammer40000boltgun",
+      "name": "Warhammer 40,000: Boltgun",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "senuassagahellblade2",
+      "name": "Senua's Saga: Hellblade II",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "oxygennotincluded",
+      "name": "Oxygen Not Included",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dawnofman",
+      "name": "Dawn of Man",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "pathfinderkingmaker",
+      "name": "Pathfinder: Kingmaker",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "pathfinderwrathoftherighteous",
+      "name": "Pathfinder: Wrath of the Righteous",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "derailvalley",
+      "name": "Derail Valley",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "railroader",
+      "name": "Railroader",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "lethalcompany",
+      "name": "Lethal Company",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "contentwarning",
+      "name": "Content Warning",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "aska",
+      "name": "ASKA",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "ballxpit",
+      "name": "BALL x PIT",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "blueprince",
+      "name": "Blue Prince",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "bloonstd6",
+      "name": "Bloons TD6",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "cairn",
+      "name": "Cairn",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "discoelysium",
+      "name": "Disco Elysium",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "footballmanager26",
+      "name": "Football Manager 26",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "megabonk",
+      "name": "Megabonk",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "pcbuildingsimulator2",
+      "name": "PC Building Simulator 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "prodeus",
+      "name": "Prodeus",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "storyofseasonsgrandbazaar",
+      "name": "Story of Seasons: Grand Bazaar",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "survivingmars",
+      "name": "Surviving Mars",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "grimrock",
+      "name": "Legend of Grimrock",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "civilisationvi",
+      "name": "Sid Meier's Civilization VI",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "civilizationvii",
+      "name": "Sid Meier's Civilization VII",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "burglingnomes",
+      "name": "Burglin' Gnomes",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "cloverpit",
+      "name": "CloverPit",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "escapefromduckov",
+      "name": "Escape from Duckov",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "howtofish",
+      "name": "How To Fish",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "mywintercar",
+      "name": "My Winter Car",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "peak",
+      "name": "PEAK",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "pillarsofeternity",
+      "name": "Pillars of Eternity",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "stardewvalley",
+      "name": "Stardew Valley",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "elex",
+      "name": "ELEX",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "eurotrucksimulator2",
+      "name": "Euro Truck Simulator 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "x4foundations",
+      "name": "X4: Foundations",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "bladeandsorcery",
+      "name": "Blade & Sorcery",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "slaythespire2",
+      "name": "Slay the Spire 2",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "anno117paxromana",
+      "name": "Anno 117: Pax Romana",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "stateofdecay",
+      "name": "State of Decay",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "stateofdecay2",
+      "name": "State of Decay 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "pcbuildingsimulator",
+      "name": "PC Building Simulator",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "hollowknight",
+      "name": "Hollow Knight",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "hollowknightsilksong",
+      "name": "Hollow Knight: Silksong",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "mountandblade",
+      "name": "Mount & Blade",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "mbwarband",
+      "name": "Mount & Blade: Warband",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "mbwithfireandsword",
+      "name": "Mount & Blade: With Fire and Sword",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "selaco",
+      "name": "Selaco",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dinkum",
+      "name": "Dinkum",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "stellar-blade",
+      "name": "Stellar Blade",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "the-first-berserker-khazan",
+      "name": "The First Berserker: Khazan",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "lost-soul-aside",
+      "name": "Lost Soul Aside (direct scan)",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "wuchang-fallen-feathers",
+      "name": "WUCHANG: Fallen Feathers",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "hogwarts-legacy",
+      "name": "Hogwarts Legacy",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "black-myth-wukong",
+      "name": "Black Myth: Wukong",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "lies-of-p",
+      "name": "Lies of P",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "palworld",
+      "name": "Palworld",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "final-fantasy-vii-remake-intergrade",
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "clairobscurexpedition33",
+      "name": "Clair Obscur: Expedition 33",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "codevein2",
+      "name": "CODE VEIN II",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "coralisland",
+      "name": "Coral Island",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "crisoltheaterofidols",
+      "name": "Crisol: Theater of Idols",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "daemonxmachinatitanicscion",
+      "name": "Daemon X Machina: Titanic Scion",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "deadasdisco",
+      "name": "Dead As Disco",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragonquest7reimagined",
+      "name": "DRAGON QUEST VII Reimagined",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragonquestxisdefinitiveedition",
+      "name": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "fantasylifeithegirlwhostealstime",
+      "name": "FANTASY LIFE i: The Girl Who Steals Time",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "farfarwest",
+      "name": "Far Far West",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "highonlife2",
+      "name": "High On Life 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "inzoi",
+      "name": "inZOI",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "keeper",
+      "name": "Keeper",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "legobatmanlegacyofthedarkknight",
+      "name": "LEGO Batman: Legacy of the Dark Knight",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "misery",
+      "name": "MISERY",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "painkiller",
+      "name": "Painkiller",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "payday3",
+      "name": "Payday 3",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "quarantinezonethelastcheck",
+      "name": "Quarantine Zone: The Last Check",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "romeoisadeadman",
+      "name": "ROMEO IS A DEAD MAN",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "routine",
+      "name": "ROUTINE",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "runefactoryguardiansofazuma",
+      "name": "Rune Factory: Guardians of Azuma",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "runescapedragonwilds",
+      "name": "RuneScape: Dragonwilds",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "rvthereyet",
+      "name": "RV There Yet?",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "silenthillf",
+      "name": "Silent Hill f",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "silenthilltownfall",
+      "name": "SILENT HILL: Townfall",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "starrupture",
+      "name": "StarRupture",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "starwarszerocompany",
+      "name": "STAR WARS Zero Company",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "styxbladesofgreed",
+      "name": "Styx: Blades of Greed",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "subnautica2",
+      "name": "Subnautica 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "tekken8",
+      "name": "TEKKEN 8",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "thelastcaretaker",
+      "name": "The Last Caretaker",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "thelordoftheringsreturntomoria",
+      "name": "The Lord of the Rings: Return to Moria",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "theouterworlds2",
+      "name": "The Outer Worlds 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "vampirebloodlines",
+      "name": "Vampire: The Masquerade - Bloodlines",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "vtmbloodlines2",
+      "name": "Vampire: The Masquerade - Bloodlines 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragonsdogma",
+      "name": "Dragon's Dogma: Dark Arisen",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragonage",
+      "name": "Dragon Age: Origins",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "witcher",
+      "name": "The Witcher",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "witcher2",
+      "name": "The Witcher 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "worldoftanks",
+      "name": "World of Tanks",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "farcry3",
+      "name": "Far Cry 3",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "farthestfrontier",
+      "name": "Farthest Frontier",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "neverwinter2",
+      "name": "Neverwinter Nights 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "left4dead2",
+      "name": "Left 4 Dead 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "batmanarkhamorigins",
+      "name": "Batman: Arkham Origins",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dishonored",
+      "name": "Dishonored",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "thesims3",
+      "name": "The Sims 3",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "thesims4",
+      "name": "The Sims 4",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "residentevil4",
+      "name": "Resident Evil 4 (2005)",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "graveyardkeeper2",
+      "name": "Graveyard Keeper 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "groundbranch",
+      "name": "Ground Branch",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "borderlands3",
+      "name": "Borderlands 3",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "borderlands4",
+      "name": "Borderlands 4",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "finalfantasy7rebirth",
+      "name": "Final Fantasy VII Rebirth",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "reanimal",
+      "name": "REANIMAL",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "thebloodofdawnwalker",
+      "name": "The Blood of Dawnwalker",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "thesinkingcity2",
+      "name": "The Sinking City 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "windrose",
+      "name": "Windrose",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "phantombladezero",
+      "name": "Phantom Blade Zero",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "abioticfactor",
+      "name": "Abiotic Factor",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "solarpunk",
+      "name": "Solarpunk",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "dispatch",
+      "name": "Dispatch",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "humanitz",
+      "name": "HumanitZ",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "octopathtraveler",
+      "name": "Octopath Traveler",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "octopathtraveler0",
+      "name": "OCTOPATH TRAVELER 0",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "surroundead",
+      "name": "SurrounDead",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "systemshock2023",
+      "name": "System Shock (2023)",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "theouterworlds",
+      "name": "The Outer Worlds (Classic)",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "titanquest2",
+      "name": "Titan Quest 2",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "trepang2",
+      "name": "Trepang2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "vein",
+      "name": "VEIN",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "voidtrain",
+      "name": "Voidtrain",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "whiskerwood",
+      "name": "Whiskerwood",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "witchfire",
+      "name": "Witchfire",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "highonlife",
+      "name": "High On Life",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "atomicheart",
+      "name": "Atomic Heart",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "manorlords",
+      "name": "Manor Lords",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "gothamknights",
+      "name": "Gotham Knights",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "grimdawn",
+      "name": "Grim Dawn",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "daggerfallunity",
+      "name": "Daggerfall Unity",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "ahatintime",
+      "name": "A Hat in Time",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "kenshi",
+      "name": "Kenshi",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "xrebirth",
+      "name": "X Rebirth",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "rimworld",
+      "name": "RimWorld",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "gujian3",
+      "name": "Gujian 3",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "granblue-fantasy-relink",
+      "name": "Granblue Fantasy: Relink",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "ninja-gaiden-2-black",
+      "name": "NINJA GAIDEN 2 Black",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "ninja-gaiden-4",
+      "name": "NINJA GAIDEN 4",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "noita",
+      "name": "Noita",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "nomanssky",
+      "name": "No Man's Sky",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "wo-long-fallen-dynasty",
+      "name": "Wo Long: Fallen Dynasty",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragon-sword-awakening",
+      "name": "Dragon Sword Awakening",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "devil-may-cry-5",
+      "name": "Devil May Cry 5",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "monster-hunter-rise",
+      "name": "Monster Hunter Rise",
+      "status": "hosted-not-game-tested",
+      "search_completed": true
+    },
+    {
+      "game_id": "monster-hunter-wilds",
+      "name": "Monster Hunter Wilds",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "onimusha-2",
+      "name": "Onimusha 2: Samurai's Destiny",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "onimusha-way-of-the-sword",
+      "name": "Onimusha: Way of the Sword",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "resident-evil-2",
+      "name": "Resident Evil 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "resident-evil-3",
+      "name": "Resident Evil 3",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "resident-evil-4",
+      "name": "Resident Evil 4",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "resident-evil-7",
+      "name": "Resident Evil 7 Biohazard",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "resident-evil-village",
+      "name": "Resident Evil Village",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragons-dogma-2",
+      "name": "Dragon's Dogma 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "street-fighter-6",
+      "name": "Street Fighter 6",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "codevein",
+      "name": "Code Vein",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "bloodstainedritualofthenight",
+      "name": "Bloodstained: Ritual of the Night",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "spyroreignitedtrilogy",
+      "name": "Spyro Reignited Trilogy",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "kerbal-space-program",
+      "name": "Kerbal Space Program",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "starbound",
+      "name": "Starbound",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "team-fortress-2",
+      "name": "Team Fortress 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "xcom2",
+      "name": "XCOM 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "xcom2-wotc",
+      "name": "XCOM 2: War of the Chosen",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "kotor",
+      "name": "Star Wars: Knights of the Old Republic",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "kotor2",
+      "name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "subnauticabelowzero",
+      "name": "Subnautica: Below Zero",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "halothemasterchiefcollection",
+      "name": "Halo: The Master Chief Collection",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "darksouls",
+      "name": "Dark Souls",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "darksouls2",
+      "name": "Dark Souls II",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "darksoulsremastered",
+      "name": "Dark Souls Remastered",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "jurassicworldevolution",
+      "name": "Jurassic World Evolution",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "sekiro",
+      "name": "Sekiro: Shadows Die Twice",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "superworldbox",
+      "name": "Super WorldBox",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "mysummercar",
+      "name": "My Summer Car",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "marvelrivals",
+      "name": "Marvel Rivals",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "metalgearsolidvtpp",
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "battlebrothers",
+      "name": "Battle Brothers",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "shadowrunreturns",
+      "name": "Shadowrun Returns",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "alienisolation",
+      "name": "Alien: Isolation",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "madmax",
+      "name": "Mad Max",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "assassinscreedrogue",
+      "name": "Assassin's Creed Rogue",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "assassinscreedblackflagresynced",
+      "name": "Assassin's Creed Black Flag Resynced",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "aplaguetalerequiem",
+      "name": "A Plague Tale: Requiem",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "breakingwheel",
+      "name": "Breaking Wheel",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "carriercommand2",
+      "name": "Carrier Command 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "potionpermit",
+      "name": "Potion Permit",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "godsworn",
+      "name": "Godsworn",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "goldminingsimulator",
+      "name": "Gold Mining Simulator",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "hardspaceshipbreaker",
+      "name": "Hardspace: Shipbreaker",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "lumaisland",
+      "name": "Luma Island",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "tcgcardshopsimulator",
+      "name": "TCG Card Shop Simulator",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "scavprototype",
+      "name": "Casualties: Unknown Demo",
+      "status": "not-found-in-searched-sources",
+      "search_completed": true
+    },
+    {
+      "game_id": "onepieceodyssey",
+      "name": "One Piece Odyssey",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "aliensfireteamelite",
+      "name": "Aliens: Fireteam Elite",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "minecraftdungeons",
+      "name": "Minecraft Dungeons",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "greedfall",
+      "name": "GreedFall",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "nierautomata",
+      "name": "NieR: Automata",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "dragonballzkakarot",
+      "name": "Dragon Ball Z: Kakarot",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "fnafsecuritybreach",
+      "name": "Five Nights at Freddy's: Security Breach",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "marvelsmidnightsuns",
+      "name": "Marvel's Midnight Suns",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "totalwarthreekingdoms",
+      "name": "Total War: Three Kingdoms",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "totalwarwarhammer3",
+      "name": "Total War: Warhammer III",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "carmechanicsimulator2021",
+      "name": "Car Mechanic Simulator 2021",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "returntocastlewolfenstein",
+      "name": "Return to Castle Wolfenstein",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "reddeadredemption2",
+      "name": "Red Dead Redemption 2",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "slimerancher",
+      "name": "Slime Rancher",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "tombraidertrilogy2remastered",
+      "name": "Tomb Raider IV–VI Remastered",
+      "status": "author-link-only",
+      "search_completed": true
+    },
+    {
+      "game_id": "galacticcivilizations3",
+      "name": "Galactic Civilizations III",
+      "status": "author-link-only",
+      "search_completed": true
+    }
+  ],
+  "note": "Author-page matches are candidates. A source link, static parse or preset is not game/runtime acceptance."
+}

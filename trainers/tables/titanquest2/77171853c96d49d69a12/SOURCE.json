@@ -1,0 +1,11 @@
+{
+  "title": "TQ2-Win64-Shipping.CT",
+  "author": "bbfox0703",
+  "source_url": "https://github.com/bbfox0703/Mydev-Cheat-Engine-Tables/blob/d6ad3af3aace64aab26f109a3920a420d76fad73/Titan%20Quest%20II/TQ2-Win64-Shipping.CT",
+  "source_commit": "d6ad3af3aace64aab26f109a3920a420d76fad73",
+  "source_path": "Titan Quest II/TQ2-Win64-Shipping.CT",
+  "sha256": "ce3ca27b7dfc2cf7231077102ae75b5e8fd07dd364d9d367dd2534956c557013",
+  "size": 89826,
+  "license": "GPL-3.0",
+  "game_tested": false
+}

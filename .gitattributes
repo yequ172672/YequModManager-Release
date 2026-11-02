@@ -1,0 +1,4 @@
+
+# Preserve original author bytes and download hashes.
+trainers/tables/**/table.CT -text
+trainers/tables/**/LICENSE.txt -text

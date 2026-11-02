@@ -1,0 +1,11 @@
+{
+  "title": "Kingmaker.CT",
+  "author": "bbfox0703",
+  "source_url": "https://github.com/bbfox0703/Mydev-Cheat-Engine-Tables/blob/d6ad3af3aace64aab26f109a3920a420d76fad73/Pathfinder%20Kingmaker/Kingmaker.CT",
+  "source_commit": "d6ad3af3aace64aab26f109a3920a420d76fad73",
+  "source_path": "Pathfinder Kingmaker/Kingmaker.CT",
+  "sha256": "f5aeec28575c18bd9c7caced188948c099a1e47992bffc2800d52b3345001a5b",
+  "size": 100706,
+  "license": "GPL-3.0",
+  "game_tested": false
+}

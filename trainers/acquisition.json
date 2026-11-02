@@ -1,0 +1,107 @@
+{
+  "sources": [
+    {
+      "repo": "bbfox0703/Mydev-Cheat-Engine-Tables",
+      "commit": "d6ad3af3aace64aab26f109a3920a420d76fad73",
+      "license": "GPL-3.0",
+      "ct_files": 170
+    },
+    {
+      "repo": "Hexorg/CheatEngineTables",
+      "commit": "0e7092b235f62ee5af4d3942c4323eb6c414f9c6",
+      "license": "unspecified",
+      "ct_files": 5606
+    },
+    {
+      "repo": "atul1503/Cheat-Engine-Tables",
+      "commit": "839d5f0e83b8431fe61c8c9029432a0ebfea0029",
+      "license": "unspecified",
+      "ct_files": 75
+    },
+    {
+      "repo": "tduva/CheatEngine-Tables",
+      "commit": "0a2f0a82b924beade4fd2fffc1cd4a905ea17d17",
+      "license": "unspecified",
+      "ct_files": 8
+    },
+    {
+      "repo": "Haxtale/cheat-engine-tables",
+      "commit": "9099360bbc0b7144486dd17391cfa71d279f8924",
+      "license": "unspecified",
+      "ct_files": 1
+    },
+    {
+      "repo": "The-Grand-Archives/Elden-Ring-CT-TGA",
+      "commit": "393c439e72ad48128efdc5e30fc3feb4bfbd210f",
+      "license": "unspecified",
+      "ct_files": 0
+    },
+    {
+      "repo": "The-Grand-Archives/Dark-Souls-III-CT-TGA",
+      "commit": "6f6a1e0f726f313b43814c6fa939cf60f9d8b05b",
+      "license": "unspecified",
+      "ct_files": 1
+    },
+    {
+      "repo": "themaoci/BaldursGate3-CheatTable",
+      "commit": "6ea6b82b57d7d2567390447705f82fb8c24f7c25",
+      "license": "GPL-3.0",
+      "ct_files": 1
+    },
+    {
+      "repo": "ragnaroks/CheatTables",
+      "commit": "9c130572102a60fc29713bb342750dc4619287ea",
+      "license": "AGPL-3.0",
+      "ct_files": 189
+    },
+    {
+      "repo": "Sora3100/Tales_of_Cheat_Tables",
+      "commit": "6e074d8ad7e7fc586fc3015c0b3de226d3aa2bb9",
+      "license": "GPL-3.0",
+      "ct_files": 31
+    },
+    {
+      "repo": "MBRKiNG/CE-Tables",
+      "commit": "995157d679ebe9649170046b8eeb64afcd67539b",
+      "license": "unspecified",
+      "ct_files": 42
+    },
+    {
+      "repo": "pilot2254/cheat-tables",
+      "commit": "6fc8af97e0abb002181bf069d9f181858b1d05a6",
+      "license": "MIT",
+      "ct_files": 12
+    },
+    {
+      "repo": "DerekTurtleRoe/CE-tables",
+      "commit": "7b0ea43ec43cc98c9835166198afc6660441c78a",
+      "license": "Unlicense",
+      "ct_files": 0
+    },
+    {
+      "repo": "ObsceneNameHere/CheatTables",
+      "commit": "185c374ada971a4771e988e34ed0edde152c5ee7",
+      "license": "GPL-3.0",
+      "ct_files": 48
+    },
+    {
+      "repo": "EerieGoesD/cheat_engine_tables",
+      "commit": "38011bee209beabe073503ab00ad6fca64811074",
+      "license": "MIT",
+      "ct_files": 0
+    },
+    {
+      "repo": "YSakhno/cheatengine-tables",
+      "commit": "02866aec328d23d9fb22fd5b03dc354020254ae3",
+      "license": "unspecified",
+      "ct_files": 8
+    },
+    {
+      "repo": "thereisnotime/cheat-engine-tables",
+      "commit": "ee81420933130910c629a95d56783acdb47019d6",
+      "license": "unspecified",
+      "ct_files": 81
+    }
+  ],
+  "errors": []
+}

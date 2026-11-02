@@ -1,0 +1,555 @@
+[
+  {
+    "id": "00429b1520974b025528",
+    "game_id": "dragonquest1and2hd2dremake",
+    "hash": "741b6fd1af3925f8658429d8d09b8709909dd0e423fe314d7c7013eb19bd6905",
+    "records": 65,
+    "supported": 57,
+    "unsupported": 2,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "720ee29b951b4f223d12",
+    "game_id": "pathfinderkingmaker",
+    "hash": "f5aeec28575c18bd9c7caced188948c099a1e47992bffc2800d52b3345001a5b",
+    "records": 122,
+    "supported": 1,
+    "unsupported": 119,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Kingdom",
+        "count": 27
+      },
+      {
+        "reason": "Unsupported parent: Get money / game time by open inventory",
+        "count": 12
+      },
+      {
+        "reason": "Unsupported parent: Get money / view or set game time",
+        "count": 12
+      },
+      {
+        "reason": "Unsupported parent: Enable (Enable twice)",
+        "count": 12
+      },
+      {
+        "reason": "Unsupported parent: Stats (Attributes)",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "dea5c65054f0fd35507a",
+    "game_id": "civilisationvi",
+    "hash": "4b5ab1daeaa59735b1cf78f06749de6af22281e219ba9062b6560ae32ec24a31",
+    "records": 82,
+    "supported": 0,
+    "unsupported": 80,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: init. 2 ",
+        "count": 17
+      },
+      {
+        "reason": "Unsupported parent: _unknown & info",
+        "count": 9
+      },
+      {
+        "reason": "Unsupported parent: Get gold (read only)",
+        "count": 9
+      },
+      {
+        "reason": "Unsupported parent: Get Gold, Diplomatic Favor",
+        "count": 5
+      },
+      {
+        "reason": "Unsupported parent: (Expansion 2) Selected City",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "aa6667ecfa519bb9686f",
+    "game_id": "slaythespire2",
+    "hash": "bc19a019a4a67d3b74a7137e8a5e4c30b1a875a4774dca645a97f12b6ae8c392",
+    "records": 14,
+    "supported": 0,
+    "unsupported": 13,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Get gold",
+        "count": 2
+      },
+      {
+        "reason": "Unsupported parent: Get enemy creatures HP: 2nd or more",
+        "count": 1
+      },
+      {
+        "reason": "Unsupported parent: (not tested) Get player creatures HP: 2nd or more",
+        "count": 1
+      },
+      {
+        "reason": "Unsupported parent: Get enemy creatures HP: first one",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "dc39131bd7c9810bec3f",
+    "game_id": "hollowknightsilksong",
+    "hash": "04b711cdb85f928fa949181ef8894ad88e8f3f34165beb1ed4f4a165bbd31bb8",
+    "records": 430,
+    "supported": 0,
+    "unsupported": 429,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Data",
+        "count": 358
+      },
+      {
+        "reason": "Unsupported parent: Data+",
+        "count": 29
+      },
+      {
+        "reason": "Unsupported parent: Enable mono",
+        "count": 14
+      },
+      {
+        "reason": "Unsupported parent: Try to keep sub weapon (i.e. Straight Pin) amount full",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Get kill journal data",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "85ca40d6923bf9df21f5",
+    "game_id": "hollowknightsilksong",
+    "hash": "005a3c2fac6608ee801f2d12e625949b43085a90406bfe769ad539fdbed76ab2",
+    "records": 1689,
+    "supported": 0,
+    "unsupported": 1688,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Others",
+        "count": 1258
+      },
+      {
+        "reason": "Unsupported parent: Data",
+        "count": 358
+      },
+      {
+        "reason": "Unsupported parent: Data+",
+        "count": 30
+      },
+      {
+        "reason": "Unsupported parent: Enable mono",
+        "count": 14
+      },
+      {
+        "reason": "Unsupported parent: Try to keep sub weapon (i.e. Straight Pin) amount full",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "268c090a81149624b827",
+    "game_id": "stellar-blade",
+    "hash": "b22806922af3e1e41ddf0eadd2ece0f66c0590968eac1ad735c5455de2845703",
+    "records": 83,
+    "supported": 39,
+    "unsupported": 40,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Get Gold / set item amount",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Sync. gold/item amt. to real data when purchase / get",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Set amount+",
+        "count": 4
+      },
+      {
+        "reason": "Unsupported parent: This is used for invalid beta energy cores! (i.e. > already 3)",
+        "count": 4
+      },
+      {
+        "reason": "Unsupported CT directive: reassemble",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "aab4e631b517081f04fa",
+    "game_id": "hogwarts-legacy",
+    "hash": "50e66a4bc39c7ad5b7d1201b0de3172fb8985542502e61eba099d670f601e884",
+    "records": 107,
+    "supported": 88,
+    "unsupported": 1,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "44c46cae54ba2f6e53f5",
+    "game_id": "final-fantasy-vii-remake-intergrade",
+    "hash": "19ef9d4d72d6bbcfc2320ed94ab150cf1fc055bfdd53082f989abcbd8cefddf2",
+    "records": 119,
+    "supported": 102,
+    "unsupported": 5,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Get field controlled char (non-battle)",
+        "count": 2
+      },
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 2
+      },
+      {
+        "reason": "Unsupported CT directive: reassemble",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "a65156966473d2e55cce",
+    "game_id": "dragonquest7reimagined",
+    "hash": "e25d4716a4efceb71178035625e349f8666c10298d31de87d039c8bb369d6a46",
+    "records": 2350,
+    "supported": 0,
+    "unsupported": 2348,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: BaseAttributeParams [40 x FloatProperty (4B)]",
+        "count": 560
+      },
+      {
+        "reason": "Unsupported parent: DOLLAttackInfo (DOLLAttackInfo)",
+        "count": 290
+      },
+      {
+        "reason": "Unsupported parent: CharacterMovement",
+        "count": 220
+      },
+      {
+        "reason": "Unsupported parent: [4]",
+        "count": 65
+      },
+      {
+        "reason": "Unsupported parent: [0]",
+        "count": 65
+      }
+    ]
+  },
+  {
+    "id": "cf1e713cb0490c2185fc",
+    "game_id": "farthestfrontier",
+    "hash": "4f4be0fdb6b619f35fcaa52feda29c98ba83011d36d565adf538c000f93f6080",
+    "records": 67,
+    "supported": 0,
+    "unsupported": 66,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Enable",
+        "count": 14
+      },
+      {
+        "reason": "Unsupported parent: Options",
+        "count": 7
+      },
+      {
+        "reason": "Unsupported parent: Set villager move speed / life",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Active - Step 2",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Prevent item corruption in storage & set max count for some items",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "4282130949a3a373785f",
+    "game_id": "finalfantasy7rebirth",
+    "hash": "5979c8f25342c403816cbff6448459e2647b230cea9d4f3b2972d05aefdd9f71",
+    "records": 214,
+    "supported": 158,
+    "unsupported": 28,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Get item list",
+        "count": 9
+      },
+      {
+        "reason": "Unsupported parent: Get materia XP data",
+        "count": 5
+      },
+      {
+        "reason": "Unsupported CT directive: reassemble",
+        "count": 4
+      },
+      {
+        "reason": "Unsupported parent: Get research / gold pt.",
+        "count": 3
+      },
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "bef7dccc974dfe3634eb",
+    "game_id": "octopathtraveler",
+    "hash": "caa3dfc20f3affec3ed94cf1f33e7e2dce12bc84c4a3f2e6617dbb71b63051a8",
+    "records": 187,
+    "supported": 0,
+    "unsupported": 183,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Battle: Enemies",
+        "count": 8
+      },
+      {
+        "reason": "Unsupported parent: Map: characters status",
+        "count": 8
+      },
+      {
+        "reason": "Unsupported parent: Char 4 : プリムロゼ / Primrose",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Char 6 : デリオン / Therion",
+        "count": 6
+      },
+      {
+        "reason": "Unsupported parent: Char 5 : ハンイツト / H'aanit",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "77171853c96d49d69a12",
+    "game_id": "titanquest2",
+    "hash": "ce3ca27b7dfc2cf7231077102ae75b5e8fd07dd364d9d367dd2534956c557013",
+    "records": 144,
+    "supported": 0,
+    "unsupported": 143,
+    "startup_lua": true,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: m_pCharacterResourcesSet",
+        "count": 14
+      },
+      {
+        "reason": "Unsupported parent: m_pCharacterAttributesSet",
+        "count": 12
+      },
+      {
+        "reason": "Unsupported parent: m_pAttributeSetMana",
+        "count": 7
+      },
+      {
+        "reason": "Unsupported parent: m_pAttributeSetHealth",
+        "count": 7
+      },
+      {
+        "reason": "Unsupported parent: m_pStatsComponent",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "4a1be32703f101640388",
+    "game_id": "grimdawn",
+    "hash": "8465460c99cbfc368c435209ec1e5141c582da1da4b27c24c0e6a60e1f772f67",
+    "records": 54,
+    "supported": 48,
+    "unsupported": 4,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: Inventory: set item min. count",
+        "count": 3
+      },
+      {
+        "reason": "Unsupported CT directive: aobscanregion",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "bd737f428d2784883ae4",
+    "game_id": "monster-hunter-rise",
+    "hash": "7ee8116a1c9eafe75b10d9925a5afbb88cb601462b38b99391721df9ede7d2ea",
+    "records": 438,
+    "supported": 34,
+    "unsupported": 397,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: [0]",
+        "count": 123
+      },
+      {
+        "reason": "Unsupported parent: _PlayerUserDataItemParameter",
+        "count": 33
+      },
+      {
+        "reason": "Unsupported parent: Part 2 data",
+        "count": 19
+      },
+      {
+        "reason": "Unsupported parent: WeaponUseCountKingdom",
+        "count": 14
+      },
+      {
+        "reason": "Unsupported parent: WeaponUseCountHall",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "id": "2276ca52ea0e3b1f3957",
+    "game_id": "007firstlight",
+    "hash": "f08fdff848029ec79377875808f2bd8160d44578b08f0ed10f7f2824f67095b6",
+    "records": 5,
+    "supported": 0,
+    "unsupported": 5,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Unsupported parent: #1 手表功能数值不减",
+        "count": 2
+      },
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 2
+      },
+      {
+        "reason": "Unsupported parent: #2 子弹不减",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "dbddadf0c33580e8c168",
+    "game_id": "farcry3",
+    "hash": "1217a352efb1efdaffeba6f9c6e62ab9ef6f362f71b9bd1ed6c2db27489f2e1d",
+    "records": 28,
+    "supported": 0,
+    "unsupported": 28,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 10
+      },
+      {
+        "reason": "Unsupported parent: #6 获取人物坐标和标记坐标用于传送",
+        "count": 4
+      },
+      {
+        "reason": "Unsupported parent: 标记",
+        "count": 3
+      },
+      {
+        "reason": "Unsupported parent: 人物",
+        "count": 3
+      },
+      {
+        "reason": "Unsupported parent: #3 获取金钱地址",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "86946a39f459aa280d64",
+    "game_id": "lethalcompany",
+    "hash": "707cb95cceedb0a5a6e4fec284f38ac8ab0d18946f2ed0aed36b7b3a0c387f3f",
+    "records": 15,
+    "supported": 13,
+    "unsupported": 0,
+    "startup_lua": false,
+    "reasons": []
+  },
+  {
+    "id": "23785044a3f14bacaa5f",
+    "game_id": "nomanssky",
+    "hash": "3154e938ad6c17571201a3cff93696a669963912d7f80586bf311368666e8e4a",
+    "records": 36,
+    "supported": 26,
+    "unsupported": 0,
+    "startup_lua": true,
+    "reasons": []
+  },
+  {
+    "id": "81039c47a01e996563d9",
+    "game_id": "nomanssky",
+    "hash": "a2acdc74df60d9dfd4dab01222126853f863695ed05ef1cf702c9ead7214ce5e",
+    "records": 77,
+    "supported": 60,
+    "unsupported": 0,
+    "startup_lua": false,
+    "reasons": []
+  },
+  {
+    "id": "c776b262f77d8456122a",
+    "game_id": "nomanssky",
+    "hash": "a4e3bd0b33a7599e50e66dba4bc42aeada2ddb5ece6bccba0ea250580f079da7",
+    "records": 54,
+    "supported": 42,
+    "unsupported": 1,
+    "startup_lua": false,
+    "reasons": [
+      {
+        "reason": "Lua / compiler directives are not supported.",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "b0d315cf15c45d5cc4af",
+    "game_id": "nomanssky",
+    "hash": "35693537ea084598acd70965666a657f18ff9397cc5918cf67eb72802ea00268",
+    "records": 26,
+    "supported": 19,
+    "unsupported": 0,
+    "startup_lua": false,
+    "reasons": []
+  }
+]
