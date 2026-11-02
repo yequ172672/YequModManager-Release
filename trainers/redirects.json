@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-02T11:06:26.359Z",
+  "updated_utc": "2026-11-02T11:22:53.724Z",
   "counts": {
     "hosted": 23,
     "original_ct": 103,
     "archive": 2,
-    "attachment_unverified": 74,
-    "source_page": 305
+    "attachment_unverified": 102,
+    "source_page": 277
   },
   "entries": [
     {
@@ -428,8 +428,8 @@
       "id": "5e0775d4f18b8cce8a81",
       "game_id": "007firstlight",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5e0775d4f18b8cce8a81/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=5289",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1989"
     },
     {
@@ -692,8 +692,8 @@
       "id": "3fc29af278407deeb817",
       "game_id": "residentevil6",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3fc29af278407deeb817/",
-      "original_download_url": null,
-      "status": "source-http-403",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=292",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=302"
     },
     {
@@ -772,8 +772,8 @@
       "id": "c2131b58a102ee21761f",
       "game_id": "europauniversalisv",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c2131b58a102ee21761f/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4378",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1606"
     },
     {
@@ -796,8 +796,8 @@
       "id": "3b6ad5b151631182f7b1",
       "game_id": "aliensdarkdescent",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3b6ad5b151631182f7b1/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1297",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=757"
     },
     {
@@ -956,8 +956,8 @@
       "id": "77b33b3bc75850e082a2",
       "game_id": "dragonquest1and2hd2dremake",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/77b33b3bc75850e082a2/",
-      "original_download_url": null,
-      "status": "source-http-403",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4354",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1594"
     },
     {
@@ -1092,8 +1092,8 @@
       "id": "589ce608d91bb8cd9fb0",
       "game_id": "contentwarning",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/589ce608d91bb8cd9fb0/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=2721",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1293"
     },
     {
@@ -1116,8 +1116,8 @@
       "id": "a90744954ed25d6efabd",
       "game_id": "ballxpit",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a90744954ed25d6efabd/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4205",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1583"
     },
     {
@@ -1276,8 +1276,8 @@
       "id": "269361fc59385e27a7ba",
       "game_id": "grimrock",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/269361fc59385e27a7ba/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=116",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=118"
     },
     {
@@ -1292,8 +1292,8 @@
       "id": "2455f887ac69f50f5d05",
       "game_id": "civilisationvi",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2455f887ac69f50f5d05/",
-      "original_download_url": null,
-      "status": "source-http-403",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1153",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=519"
     },
     {
@@ -1340,8 +1340,8 @@
       "id": "470ac4192fa4d8dc8e2b",
       "game_id": "howtofish",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/470ac4192fa4d8dc8e2b/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=5561",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=2103"
     },
     {
@@ -1708,8 +1708,8 @@
       "id": "abca73686b3cf1700fca",
       "game_id": "hogwarts-legacy",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/abca73686b3cf1700fca/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=2672",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1285"
     },
     {
@@ -1788,8 +1788,8 @@
       "id": "682b982237ea02200dbb",
       "game_id": "codevein2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/682b982237ea02200dbb/",
-      "original_download_url": null,
-      "status": "source-http-403",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4716",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1779"
     },
     {
@@ -1820,8 +1820,8 @@
       "id": "f000265ae850c6004fc9",
       "game_id": "crisoltheaterofidols",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f000265ae850c6004fc9/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4755",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1800"
     },
     {
@@ -1852,16 +1852,16 @@
       "id": "395ac3bd847a9a7a6eeb",
       "game_id": "deadasdisco",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/395ac3bd847a9a7a6eeb/",
-      "original_download_url": null,
-      "status": "source-http-403",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=5372",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=2022"
     },
     {
       "id": "00bfa63a7f4e44720617",
       "game_id": "dragonquest7reimagined",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/00bfa63a7f4e44720617/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4923",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1860"
     },
     {
@@ -1900,8 +1900,8 @@
       "id": "e1d4daacac6eff958a70",
       "game_id": "fantasylifeithegirlwhostealstime",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e1d4daacac6eff958a70/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=3210",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1399"
     },
     {
@@ -2348,8 +2348,8 @@
       "id": "082b5319c718372405f9",
       "game_id": "farthestfrontier",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/082b5319c718372405f9/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=707",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=382"
     },
     {
@@ -2500,8 +2500,8 @@
       "id": "145cf747ddae249d2cbb",
       "game_id": "borderlands4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/145cf747ddae249d2cbb/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4667",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1777"
     },
     {
@@ -2692,8 +2692,8 @@
       "id": "ec09b84d4db99f14d0bf",
       "game_id": "theouterworlds",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ec09b84d4db99f14d0bf/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1405",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=898"
     },
     {
@@ -2844,8 +2844,8 @@
       "id": "e53a8c1d5359104303b3",
       "game_id": "gothamknights",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e53a8c1d5359104303b3/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1115",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=455"
     },
     {
@@ -2916,8 +2916,8 @@
       "id": "ed4a38d3f47cd3960a72",
       "game_id": "rimworld",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ed4a38d3f47cd3960a72/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1511",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=951"
     },
     {
@@ -3004,8 +3004,8 @@
       "id": "8e7a9c67fd7935f8a8f1",
       "game_id": "wo-long-fallen-dynasty",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8e7a9c67fd7935f8a8f1/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1073",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=666"
     },
     {
@@ -3068,16 +3068,16 @@
       "id": "045664289713311932f7",
       "game_id": "monster-hunter-wilds",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/045664289713311932f7/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4751",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1331"
     },
     {
       "id": "4ff31f7e3b4088a2eb18",
       "game_id": "onimusha-2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4ff31f7e3b4088a2eb18/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=3246",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1416"
     },
     {
@@ -3116,8 +3116,8 @@
       "id": "a1a0c6ff4ed1ae26e082",
       "game_id": "resident-evil-2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a1a0c6ff4ed1ae26e082/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1137",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=517"
     },
     {
@@ -3156,8 +3156,8 @@
       "id": "377d2ab4a472198c522b",
       "game_id": "resident-evil-7",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/377d2ab4a472198c522b/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=675",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=500"
     },
     {
@@ -3476,8 +3476,8 @@
       "id": "0d1cbf6350a5581773a1",
       "game_id": "alienisolation",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0d1cbf6350a5581773a1/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4087",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1552"
     },
     {
@@ -3492,8 +3492,8 @@
       "id": "3faa93a29e946d30b993",
       "game_id": "madmax",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3faa93a29e946d30b993/",
-      "original_download_url": null,
-      "status": "source-http-0",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=2757",
+      "status": "browser-file",
       "source_url": "https://opencheattables.com/viewtopic.php?t=1301"
     },
     {

@@ -3621,9 +3621,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5e0775d4f18b8cce8a81/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "007FirstLight.CT",
+          "url": "https://opencheattables.com/download/file.php?id=5289",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5e0775d4f18b8cce8a81/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=5289",
+      "original_file_name": "007FirstLight.CT"
     },
     {
       "id": "0dc2fb92c89a7efb1d87",
@@ -4298,9 +4306,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-403",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3fc29af278407deeb817/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "BH6.ct",
+          "url": "https://opencheattables.com/download/file.php?id=292",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3fc29af278407deeb817/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=292",
+      "original_file_name": "BH6.ct"
     },
     {
       "id": "7011355ec21398320cfc",
@@ -4520,9 +4536,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c2131b58a102ee21761f/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "EU5-1.0.5-Console.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4378",
+          "status": "browser-file"
+        },
+        {
+          "name": "EU5-1.0.4-Console.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4361",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c2131b58a102ee21761f/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4378",
+      "original_file_name": "EU5-1.0.5-Console.CT"
     },
     {
       "id": "336bfaa0e0e634e17911",
@@ -4568,9 +4597,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3b6ad5b151631182f7b1/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "AliensDarkDescentGameSteam-Win64-Shipping.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1297",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3b6ad5b151631182f7b1/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1297",
+      "original_file_name": "AliensDarkDescentGameSteam-Win64-Shipping.CT"
     },
     {
       "id": "592aaf2df657d03353df",
@@ -4989,9 +5026,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-403",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/77b33b3bc75850e082a2/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "DQIandIIHD2DRemake.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4354",
+          "status": "browser-file"
+        },
+        {
+          "name": "DQIandIIHD2DRemake.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4252",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/77b33b3bc75850e082a2/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4354",
+      "original_file_name": "DQIandIIHD2DRemake.CT"
     },
     {
       "id": "965fe6ce20ee74c46791",
@@ -5302,9 +5352,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/589ce608d91bb8cd9fb0/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "Content Warning.CT",
+          "url": "https://opencheattables.com/download/file.php?id=2721",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/589ce608d91bb8cd9fb0/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=2721",
+      "original_file_name": "Content Warning.CT"
     },
     {
       "id": "a89bbaacda3f2c3c2f00",
@@ -5350,9 +5408,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a90744954ed25d6efabd/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "BALL_X_PIT_v1.254_Steam_20252210_oct.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4205",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a90744954ed25d6efabd/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4205",
+      "original_file_name": "BALL_X_PIT_v1.254_Steam_20252210_oct.CT"
     },
     {
       "id": "19c35977b5d9f6883406",
@@ -5741,9 +5807,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/269361fc59385e27a7ba/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "Legend of Grimrock 1.CT",
+          "url": "https://opencheattables.com/download/file.php?id=116",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/269361fc59385e27a7ba/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=116",
+      "original_file_name": "Legend of Grimrock 1.CT"
     },
     {
       "id": "3f1eaa3fbd5fd116739c",
@@ -5773,9 +5847,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-403",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2455f887ac69f50f5d05/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "CivilizationVI_DX12.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1153",
+          "status": "browser-file"
+        },
+        {
+          "name": "CivilizationVI_DX12.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1022",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2455f887ac69f50f5d05/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1153",
+      "original_file_name": "CivilizationVI_DX12.CT"
     },
     {
       "id": "3435eebc81fbf9ca0651",
@@ -5895,9 +5982,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/470ac4192fa4d8dc8e2b/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "How to Fish.CT",
+          "url": "https://opencheattables.com/download/file.php?id=5561",
+          "status": "browser-file"
+        },
+        {
+          "name": "How to Fish.CT",
+          "url": "https://opencheattables.com/download/file.php?id=5620",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/470ac4192fa4d8dc8e2b/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=5561",
+      "original_file_name": "How to Fish.CT"
     },
     {
       "id": "704e4492362732211c98",
@@ -6799,9 +6899,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/abca73686b3cf1700fca/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "HogwartsLegacy.CT",
+          "url": "https://opencheattables.com/download/file.php?id=2672",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/abca73686b3cf1700fca/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=2672",
+      "original_file_name": "HogwartsLegacy.CT"
     },
     {
       "id": "97bba446d8198c2551c9",
@@ -7017,9 +7125,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-403",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/682b982237ea02200dbb/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "CodeVein2-Win64-Shipping_v7.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4716",
+          "status": "browser-file"
+        },
+        {
+          "name": "CodeVein2-Win64-Shipping_v6.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4702",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/682b982237ea02200dbb/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4716",
+      "original_file_name": "CodeVein2-Win64-Shipping_v7.CT"
     },
     {
       "id": "fd55b37e07ceb4e6dc35",
@@ -7118,9 +7239,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f000265ae850c6004fc9/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "CRToiPrototype-Win64-Shipping.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4755",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f000265ae850c6004fc9/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4755",
+      "original_file_name": "CRToiPrototype-Win64-Shipping.CT"
     },
     {
       "id": "d1440881aa4c32f885b3",
@@ -7233,9 +7362,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-403",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/395ac3bd847a9a7a6eeb/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "PagodaSteam-Win64-Shipping.CT",
+          "url": "https://opencheattables.com/download/file.php?id=5372",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/395ac3bd847a9a7a6eeb/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=5372",
+      "original_file_name": "PagodaSteam-Win64-Shipping.CT"
     },
     {
       "id": "00bfa63a7f4e44720617",
@@ -7249,9 +7386,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/00bfa63a7f4e44720617/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "DQ7R-Win64-Shipping.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4923",
+          "status": "browser-file"
+        },
+        {
+          "name": "DQ7R-Win64-Shipping.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4917",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/00bfa63a7f4e44720617/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4923",
+      "original_file_name": "DQ7R-Win64-Shipping.CT"
     },
     {
       "id": "4df426eae349c68920b5",
@@ -7347,9 +7497,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e1d4daacac6eff958a70/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "NFL1-Win64-Shipping.CT",
+          "url": "https://opencheattables.com/download/file.php?id=3210",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e1d4daacac6eff958a70/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=3210",
+      "original_file_name": "NFL1-Win64-Shipping.CT"
     },
     {
       "id": "7edd0b215a7e2808e0f6",
@@ -8480,9 +8638,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/082b5319c718372405f9/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "Farthest Frontier-v0.8.0-0.3.2.CT",
+          "url": "https://opencheattables.com/download/file.php?id=707",
+          "status": "browser-file"
+        },
+        {
+          "name": "Farthest Frontier-v0.7.6-0.3.1.CT",
+          "url": "https://opencheattables.com/download/file.php?id=449",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/082b5319c718372405f9/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=707",
+      "original_file_name": "Farthest Frontier-v0.8.0-0.3.2.CT"
     },
     {
       "id": "8c3cf4b2bf108eed25b8",
@@ -8818,9 +8989,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/145cf747ddae249d2cbb/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "borderlands4.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4667",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/145cf747ddae249d2cbb/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4667",
+      "original_file_name": "borderlands4.CT"
     },
     {
       "id": "2fd81abf7b42e0a9ecb1",
@@ -9343,9 +9522,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ec09b84d4db99f14d0bf/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "The Outer Worlds.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1405",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ec09b84d4db99f14d0bf/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1405",
+      "original_file_name": "The Outer Worlds.CT"
     },
     {
       "id": "a4ac6de01d189b87c1c5",
@@ -9691,9 +9878,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e53a8c1d5359104303b3/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "GothamKnights.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1115",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e53a8c1d5359104303b3/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1115",
+      "original_file_name": "GothamKnights.CT"
     },
     {
       "id": "60906c05395f964b8eeb",
@@ -9861,9 +10056,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ed4a38d3f47cd3960a72/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "RimWorld 1.4.3901.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1511",
+          "status": "browser-file"
+        },
+        {
+          "name": "RimWorld 1.4.3901.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1501",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ed4a38d3f47cd3960a72/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1511",
+      "original_file_name": "RimWorld 1.4.3901.CT"
     },
     {
       "id": "824d4225d11fb3395c62",
@@ -10057,9 +10265,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8e7a9c67fd7935f8a8f1/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "WoLong.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1073",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8e7a9c67fd7935f8a8f1/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1073",
+      "original_file_name": "WoLong.CT"
     },
     {
       "id": "380ae106c08fffa85b90",
@@ -10221,9 +10437,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/045664289713311932f7/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "MonsterHunterWilds.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4751",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/045664289713311932f7/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4751",
+      "original_file_name": "MonsterHunterWilds.CT"
     },
     {
       "id": "4ff31f7e3b4088a2eb18",
@@ -10237,9 +10461,22 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4ff31f7e3b4088a2eb18/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "Onimusha2.CT",
+          "url": "https://opencheattables.com/download/file.php?id=3246",
+          "status": "browser-file"
+        },
+        {
+          "name": "Onimusha2.CT",
+          "url": "https://opencheattables.com/download/file.php?id=3235",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4ff31f7e3b4088a2eb18/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=3246",
+      "original_file_name": "Onimusha2.CT"
     },
     {
       "id": "c37734eb8d1116beab34",
@@ -10325,9 +10562,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a1a0c6ff4ed1ae26e082/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "re2.CT",
+          "url": "https://opencheattables.com/download/file.php?id=1137",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a1a0c6ff4ed1ae26e082/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=1137",
+      "original_file_name": "re2.CT"
     },
     {
       "id": "dbc275f36f145be34d3b",
@@ -10415,9 +10660,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/377d2ab4a472198c522b/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "re7.CT",
+          "url": "https://opencheattables.com/download/file.php?id=675",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/377d2ab4a472198c522b/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=675",
+      "original_file_name": "re7.CT"
     },
     {
       "id": "f06625c9298165f05e47",
@@ -11214,9 +11467,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0d1cbf6350a5581773a1/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "AI.CT",
+          "url": "https://opencheattables.com/download/file.php?id=4087",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0d1cbf6350a5581773a1/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=4087",
+      "original_file_name": "AI.CT"
     },
     {
       "id": "6aaecf048eb9662a76c3",
@@ -11246,9 +11507,17 @@
       "size": 0,
       "game_tested": false,
       "compatibility": "author-page-only; not-runtime-tested",
-      "original_download_status": "source-http-0",
-      "original_downloads": [],
-      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3faa93a29e946d30b993/"
+      "original_download_status": "browser-file",
+      "original_downloads": [
+        {
+          "name": "MadMax.CT",
+          "url": "https://opencheattables.com/download/file.php?id=2757",
+          "status": "browser-file"
+        }
+      ],
+      "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3faa93a29e946d30b993/",
+      "original_download_url": "https://opencheattables.com/download/file.php?id=2757",
+      "original_file_name": "MadMax.CT"
     },
     {
       "id": "7ea817264fb1362dc78f",
@@ -12080,12 +12349,12 @@
     }
   ],
   "payload_commit": "e10c6f09bba1986858427df09f569bddd2aefd41",
-  "redirects_updated_utc": "2026-11-02T11:06:26.359Z",
+  "redirects_updated_utc": "2026-11-02T11:22:53.724Z",
   "redirect_counts": {
     "hosted": 23,
     "original_ct": 103,
     "archive": 2,
-    "attachment_unverified": 74,
-    "source_page": 305
+    "attachment_unverified": 102,
+    "source_page": 277
   }
 }
