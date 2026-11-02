@@ -15,6 +15,6 @@
 
 ## 原作者直链与 GitHub 跳转
 
-[打开下载入口](https://yequ172672.github.io/YequModManager-Release/)。新增 103 个已验证 CT 直链、2 个作者压缩包，以及 102 个待验证附件链接；277 个暂保留来源页面。
+[打开下载入口](https://yequ172672.github.io/YequModManager-Release/)。新增 104 个已验证 CT 直链、2 个作者压缩包，以及 361 个待验证附件链接；17 个暂保留来源页面。
 
 未镜像的文件由原作者站点直接提供。静态跳转页不是文件代理；管理器只自动导入已校验的 CT，压缩包、登录要求和限流情况交由浏览器处理。验证状态详见 [redirects.json](redirects.json)。

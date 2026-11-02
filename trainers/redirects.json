@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-02T11:22:53.724Z",
+  "updated_utc": "2026-11-02T11:35:26.101Z",
   "counts": {
     "hosted": 23,
-    "original_ct": 103,
+    "original_ct": 104,
     "archive": 2,
-    "attachment_unverified": 102,
-    "source_page": 277
+    "attachment_unverified": 361,
+    "source_page": 17
   },
   "entries": [
     {
@@ -484,16 +484,16 @@
       "id": "9f3e9d1469b07f94e41b",
       "game_id": "lostsoulaside",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9f3e9d1469b07f94e41b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72547",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36291"
     },
     {
       "id": "9c990ff0c1780d6669aa",
       "game_id": "bellwright",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9c990ff0c1780d6669aa/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72865",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36449"
     },
     {
@@ -508,8 +508,8 @@
       "id": "905d7955e7fd7bfcb50e",
       "game_id": "nwn",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/905d7955e7fd7bfcb50e/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=1482",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=1123"
     },
     {
@@ -524,8 +524,8 @@
       "id": "2df2f53234eb3897d8ab",
       "game_id": "horizonzerodawn",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2df2f53234eb3897d8ab/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=57509",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28029"
     },
     {
@@ -540,8 +540,8 @@
       "id": "1fcd43bcda0d0bef3af1",
       "game_id": "acecombat7skiesunknown",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1fcd43bcda0d0bef3af1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=54487",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=8725"
     },
     {
@@ -572,72 +572,72 @@
       "id": "99fdd147bdf589b85b42",
       "game_id": "blackmesa",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/99fdd147bdf589b85b42/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=54689",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26549"
     },
     {
       "id": "93ea8413e7754aeaad39",
       "game_id": "blackmesa",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/93ea8413e7754aeaad39/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=32911",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=16330"
     },
     {
       "id": "f882b3a555f4bb1ac1c2",
       "game_id": "halflife2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f882b3a555f4bb1ac1c2/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58971",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28766"
     },
     {
       "id": "4680dc4ab28e45de0f72",
       "game_id": "halflife2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4680dc4ab28e45de0f72/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71742",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32781"
     },
     {
       "id": "0a047405eaa5bf35bcc0",
       "game_id": "starwarsjedifallenorder",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0a047405eaa5bf35bcc0/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56439",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27500"
     },
     {
       "id": "703dc33d18e4ac4df9e6",
       "game_id": "starwarsjedifallenorder",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/703dc33d18e4ac4df9e6/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=68690",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29064"
     },
     {
       "id": "751cd77acb0900ddbee0",
       "game_id": "starwarsjedisurvivor",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/751cd77acb0900ddbee0/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=50280",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=24481"
     },
     {
       "id": "1f04557d8c4fa68e1749",
       "game_id": "starwarsjedisurvivor",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1f04557d8c4fa68e1749/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59243",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28916"
     },
     {
       "id": "57cdcd284e38a7b9ab51",
       "game_id": "farmingsimulator19",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/57cdcd284e38a7b9ab51/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58933",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28741"
     },
     {
@@ -645,39 +645,39 @@
       "game_id": "warthunder",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3e718b9d5cd2741ae021/",
       "original_download_url": null,
-      "status": "source-http-429",
+      "status": "no-direct-link",
       "source_url": "https://fearlessrevolution.com/viewforum.php?f=16&start=900"
     },
     {
       "id": "0c392810a9d6e9574119",
       "game_id": "theriftbreaker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0c392810a9d6e9574119/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55449",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27054"
     },
     {
       "id": "b2a920c55c655f420b4a",
       "game_id": "theriftbreaker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b2a920c55c655f420b4a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=37109",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=17807"
     },
     {
       "id": "d8424429b61b7cf9c9a5",
       "game_id": "sunlesssea",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/d8424429b61b7cf9c9a5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59377",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28974"
     },
     {
       "id": "43c2efc8ff88b01ba4c2",
       "game_id": "residentevil5goldedition",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/43c2efc8ff88b01ba4c2/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=2439",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=1954"
     },
     {
@@ -700,32 +700,32 @@
       "id": "7011355ec21398320cfc",
       "game_id": "prey2017",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/7011355ec21398320cfc/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=2970",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=2342"
     },
     {
       "id": "c39679a9f6d4e284020a",
       "game_id": "systemshock225thanniversaryremaster",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c39679a9f6d4e284020a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71337",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35600"
     },
     {
       "id": "b8eec6d87e0654dbb91f",
       "game_id": "torchlight2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b8eec6d87e0654dbb91f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56798",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27660"
     },
     {
       "id": "5e9902e3d3e346da6382",
       "game_id": "torchlight2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5e9902e3d3e346da6382/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=24754",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=13169"
     },
     {
@@ -780,16 +780,16 @@
       "id": "336bfaa0e0e634e17911",
       "game_id": "readyornot",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/336bfaa0e0e634e17911/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=57793",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=18818"
     },
     {
       "id": "ce134d84b366d8e77063",
       "game_id": "aliensdarkdescent",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ce134d84b366d8e77063/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=51344",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=24972"
     },
     {
@@ -828,24 +828,24 @@
       "id": "2fad019d2b7f1b284ede",
       "game_id": "prisonarchitect",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2fad019d2b7f1b284ede/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=60778",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29730"
     },
     {
       "id": "18f0940704873a7c2239",
       "game_id": "avowed",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/18f0940704873a7c2239/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=67568",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33892"
     },
     {
       "id": "74361c85a778ca4af62c",
       "game_id": "avowed",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/74361c85a778ca4af62c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=77652",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33890"
     },
     {
@@ -868,32 +868,32 @@
       "id": "3e186aae54d9ed108741",
       "game_id": "mechwarrior5clans",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3e186aae54d9ed108741/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=75195",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32198"
     },
     {
       "id": "2f4b8dc81c28b21fd354",
       "game_id": "mechwarrior5clans",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2f4b8dc81c28b21fd354/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=64615",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32375"
     },
     {
       "id": "e7ae50ae0248fda65ff6",
       "game_id": "metalgearsoliddeltasnakeeater",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e7ae50ae0248fda65ff6/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72480",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36259"
     },
     {
       "id": "dedf9c6151ac218974fc",
       "game_id": "nobodywantstodie",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/dedf9c6151ac218974fc/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=63072",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=31064"
     },
     {
@@ -908,24 +908,24 @@
       "id": "13dea1c079244a47e9ab",
       "game_id": "robocoproguecity",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/13dea1c079244a47e9ab/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55565",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27122"
     },
     {
       "id": "7eda862f41f9f08c8142",
       "game_id": "silenthill2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/7eda862f41f9f08c8142/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=80867",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=17324"
     },
     {
       "id": "07f9fd01ce58ddf7ef77",
       "game_id": "silenthill2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/07f9fd01ce58ddf7ef77/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=34806",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=17158"
     },
     {
@@ -964,8 +964,8 @@
       "id": "965fe6ce20ee74c46791",
       "game_id": "ofashandsteel",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/965fe6ce20ee74c46791/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74761",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37388"
     },
     {
@@ -988,16 +988,16 @@
       "id": "57af7b9838c47d7e85dc",
       "game_id": "senuassagahellblade2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/57af7b9838c47d7e85dc/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=60017",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29286"
     },
     {
       "id": "87c70046f5009943d2f7",
       "game_id": "oxygennotincluded",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/87c70046f5009943d2f7/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62132",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30462"
     },
     {
@@ -1012,56 +1012,56 @@
       "id": "319ad0e4e37dfa917f62",
       "game_id": "dawnofman",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/319ad0e4e37dfa917f62/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61837",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30317"
     },
     {
       "id": "228098ab79ae617e331b",
       "game_id": "dawnofman",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/228098ab79ae617e331b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=28965",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=8829"
     },
     {
       "id": "047f8d8fcdce24d447b2",
       "game_id": "pathfinderkingmaker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/047f8d8fcdce24d447b2/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55318",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26944"
     },
     {
       "id": "0e28bb15d611c8579370",
       "game_id": "pathfinderkingmaker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0e28bb15d611c8579370/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=25289",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=8486"
     },
     {
       "id": "0990396b4b95052a3c0a",
       "game_id": "pathfinderwrathoftherighteous",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0990396b4b95052a3c0a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=45068",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=21419"
     },
     {
       "id": "e9f5408063a3cb779a32",
       "game_id": "pathfinderwrathoftherighteous",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e9f5408063a3cb779a32/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61556",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=19013"
     },
     {
       "id": "277abdbd56c158f066cd",
       "game_id": "derailvalley",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/277abdbd56c158f066cd/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=77166",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38562"
     },
     {
@@ -1076,16 +1076,16 @@
       "id": "bb584c53b9fa75ee343d",
       "game_id": "lethalcompany",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/bb584c53b9fa75ee343d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=60610",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26706"
     },
     {
       "id": "86a0d62f34dc2ccf89eb",
       "game_id": "contentwarning",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/86a0d62f34dc2ccf89eb/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=67781",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33994"
     },
     {
@@ -1100,16 +1100,16 @@
       "id": "a89bbaacda3f2c3c2f00",
       "game_id": "aska",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a89bbaacda3f2c3c2f00/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61448",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30091"
     },
     {
       "id": "e922515ad3993e999f7c",
       "game_id": "aska",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e922515ad3993e999f7c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71436",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35654"
     },
     {
@@ -1148,32 +1148,32 @@
       "id": "2b2105c4b1b4ca0a86a0",
       "game_id": "bloonstd6",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2b2105c4b1b4ca0a86a0/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=36298",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=11682"
     },
     {
       "id": "9ef0675555cd3feea9ff",
       "game_id": "bloonstd6",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9ef0675555cd3feea9ff/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76142",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32972"
     },
     {
       "id": "774de3499d65b78a20d5",
       "game_id": "discoelysium",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/774de3499d65b78a20d5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55821",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27221"
     },
     {
       "id": "de709b6a5e0f51c3709f",
       "game_id": "discoelysium",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/de709b6a5e0f51c3709f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55113",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26823"
     },
     {
@@ -1181,23 +1181,23 @@
       "game_id": "footballmanager26",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f8c11b99ad1d0a85319e/",
       "original_download_url": null,
-      "status": "source-http-429",
+      "status": "no-direct-link",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37900"
     },
     {
       "id": "9e8ab74a7e532eabaaab",
       "game_id": "megabonk",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9e8ab74a7e532eabaaab/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=73619",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36764"
     },
     {
       "id": "1e3bdc54bca26b9d16fd",
       "game_id": "megabonk",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1e3bdc54bca26b9d16fd/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=73651",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36782"
     },
     {
@@ -1212,32 +1212,32 @@
       "id": "1259b470e4f62f261789",
       "game_id": "pcbuildingsimulator2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1259b470e4f62f261789/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=46272",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=21812"
     },
     {
       "id": "3fe34c38dd26c25c52ff",
       "game_id": "prodeus",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3fe34c38dd26c25c52ff/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=70964",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35422"
     },
     {
       "id": "14e9eb230237e4c52a49",
       "game_id": "prodeus",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/14e9eb230237e4c52a49/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=45278",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=13931"
     },
     {
       "id": "f4297efc90e2d38c5c92",
       "game_id": "storyofseasonsgrandbazaar",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f4297efc90e2d38c5c92/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72830",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36278"
     },
     {
@@ -1252,8 +1252,8 @@
       "id": "2e547dcc6baaab087379",
       "game_id": "survivingmars",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2e547dcc6baaab087379/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56078",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27366"
     },
     {
@@ -1268,8 +1268,8 @@
       "id": "ce6d1d6058f456370de0",
       "game_id": "grimrock",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ce6d1d6058f456370de0/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=20174",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=11268"
     },
     {
@@ -1284,8 +1284,8 @@
       "id": "3f1eaa3fbd5fd116739c",
       "game_id": "civilisationvi",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3f1eaa3fbd5fd116739c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55383",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26998"
     },
     {
@@ -1324,16 +1324,16 @@
       "id": "b26055906277ee085811",
       "game_id": "escapefromduckov",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b26055906277ee085811/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74236",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37011"
     },
     {
       "id": "b5e8ef4abe37e39acf05",
       "game_id": "howtofish",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b5e8ef4abe37e39acf05/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=80997",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40513"
     },
     {
@@ -1356,8 +1356,8 @@
       "id": "dce10929fa8411dce9fe",
       "game_id": "peak",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/dce10929fa8411dce9fe/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71427",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35511"
     },
     {
@@ -1372,8 +1372,8 @@
       "id": "02be3899ca6754b5edb5",
       "game_id": "pillarsofeternity",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/02be3899ca6754b5edb5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62721",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30858"
     },
     {
@@ -1396,32 +1396,32 @@
       "id": "f5b59d96bdc5c9c92791",
       "game_id": "elex",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f5b59d96bdc5c9c92791/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=6854",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=5258"
     },
     {
       "id": "9677d5dde951f95ccc9d",
       "game_id": "eurotrucksimulator2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9677d5dde951f95ccc9d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58792",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28654"
     },
     {
       "id": "af169f280f693445d3b3",
       "game_id": "eurotrucksimulator2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/af169f280f693445d3b3/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=23082",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=12303"
     },
     {
       "id": "54d5be8a2912e091236f",
       "game_id": "x4foundations",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/54d5be8a2912e091236f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=64410",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32038"
     },
     {
@@ -1445,7 +1445,7 @@
       "game_id": "bladeandsorcery",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/05f1b26db2e009605669/",
       "original_download_url": null,
-      "status": "source-http-429",
+      "status": "source-http-403",
       "source_url": "https://fearlessrevolution.com/search.php?author_id=30393&sr=posts"
     },
     {
@@ -1460,24 +1460,24 @@
       "id": "ec3f32abed1f90867394",
       "game_id": "slaythespire2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ec3f32abed1f90867394/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76977",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38468"
     },
     {
       "id": "d58b21595985000bb8d5",
       "game_id": "anno117paxromana",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/d58b21595985000bb8d5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74621",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37307"
     },
     {
       "id": "e80d3d33403075532534",
       "game_id": "anno117paxromana",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e80d3d33403075532534/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72712",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36335"
     },
     {
@@ -1492,24 +1492,24 @@
       "id": "aa3d5c34c99c09023e18",
       "game_id": "stateofdecay",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/aa3d5c34c99c09023e18/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=366",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=343"
     },
     {
       "id": "06c84a86a81496761e39",
       "game_id": "stateofdecay2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/06c84a86a81496761e39/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56443",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27504"
     },
     {
       "id": "b233c3332f1440db88ef",
       "game_id": "stateofdecay2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b233c3332f1440db88ef/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=66583",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33274"
     },
     {
@@ -1524,40 +1524,40 @@
       "id": "e937c1c2e3dcbd44e1a1",
       "game_id": "pcbuildingsimulator",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e937c1c2e3dcbd44e1a1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=32484",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=6526"
     },
     {
       "id": "8b5e5d7541eade3b033f",
       "game_id": "hollowknight",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8b5e5d7541eade3b033f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62017",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30415"
     },
     {
       "id": "ca753c4036e0224d6374",
       "game_id": "hollowknight",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ca753c4036e0224d6374/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=67306",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33752"
     },
     {
       "id": "ddfd37de50b6ac56c129",
       "game_id": "hollowknightsilksong",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ddfd37de50b6ac56c129/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72671",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36364"
     },
     {
       "id": "1b9f96b2d8808a15db80",
       "game_id": "hollowknightsilksong",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1b9f96b2d8808a15db80/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72695",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36379"
     },
     {
@@ -1572,8 +1572,8 @@
       "id": "70220d8b244107fe8c32",
       "game_id": "mountandblade",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/70220d8b244107fe8c32/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=57611",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28091"
     },
     {
@@ -1588,8 +1588,8 @@
       "id": "d28336dedaefcdf3c4bc",
       "game_id": "mbwithfireandsword",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/d28336dedaefcdf3c4bc/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=2462",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=1973"
     },
     {
@@ -1604,8 +1604,8 @@
       "id": "21aa1e1138b5f565690c",
       "game_id": "selaco",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/21aa1e1138b5f565690c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61466",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30114"
     },
     {
@@ -1620,24 +1620,24 @@
       "id": "c8327d22d7d136d92b06",
       "game_id": "dinkum",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c8327d22d7d136d92b06/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61177",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29963"
     },
     {
       "id": "970fb4fdb882468aa578",
       "game_id": "dinkum",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/970fb4fdb882468aa578/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=43784",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=20780"
     },
     {
       "id": "f831140b2510230c2a9c",
       "game_id": "stellar-blade",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f831140b2510230c2a9c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=75474",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35555"
     },
     {
@@ -1660,8 +1660,8 @@
       "id": "236b3b944a2136770236",
       "game_id": "the-first-berserker-khazan",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/236b3b944a2136770236/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=77017",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35691"
     },
     {
@@ -1676,32 +1676,32 @@
       "id": "8eb099e6814eecd4a327",
       "game_id": "lost-soul-aside",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8eb099e6814eecd4a327/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72547",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36291"
     },
     {
       "id": "9d54d17b936535babb2c",
       "game_id": "wuchang-fallen-feathers",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9d54d17b936535babb2c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71772",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35854"
     },
     {
       "id": "35d62af59df034be81cf",
       "game_id": "wuchang-fallen-feathers",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/35d62af59df034be81cf/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76372",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35886"
     },
     {
       "id": "2d276523319b714f2a6c",
       "game_id": "hogwarts-legacy",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2d276523319b714f2a6c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62304",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30598"
     },
     {
@@ -1716,8 +1716,8 @@
       "id": "97bba446d8198c2551c9",
       "game_id": "black-myth-wukong",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/97bba446d8198c2551c9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62775",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30894"
     },
     {
@@ -1740,8 +1740,8 @@
       "id": "91f50e48eaee7f3fda1b",
       "game_id": "palworld",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/91f50e48eaee7f3fda1b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71454",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35666"
     },
     {
@@ -1756,24 +1756,24 @@
       "id": "00bd8e834d606cba64aa",
       "game_id": "final-fantasy-vii-remake-intergrade",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/00bd8e834d606cba64aa/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=66038",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=19007"
     },
     {
       "id": "78ee59eb454a030f7318",
       "game_id": "clairobscurexpedition33",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/78ee59eb454a030f7318/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=69522",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=34748"
     },
     {
       "id": "b992179255b2b5896c11",
       "game_id": "clairobscurexpedition33",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b992179255b2b5896c11/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=69794",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=34876"
     },
     {
@@ -1796,8 +1796,8 @@
       "id": "fd55b37e07ceb4e6dc35",
       "game_id": "coralisland",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/fd55b37e07ceb4e6dc35/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=60634",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29541"
     },
     {
@@ -1868,8 +1868,8 @@
       "id": "4df426eae349c68920b5",
       "game_id": "dragonquest7reimagined",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4df426eae349c68920b5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76187",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37887"
     },
     {
@@ -1892,8 +1892,8 @@
       "id": "bafcbded16166bb02957",
       "game_id": "fantasylifeithegirlwhostealstime",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/bafcbded16166bb02957/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=70322",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35056"
     },
     {
@@ -1908,8 +1908,8 @@
       "id": "7edd0b215a7e2808e0f6",
       "game_id": "farfarwest",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/7edd0b215a7e2808e0f6/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=75813",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37962"
     },
     {
@@ -1940,8 +1940,8 @@
       "id": "130700d41a02991a057e",
       "game_id": "keeper",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/130700d41a02991a057e/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=57701",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=24504"
     },
     {
@@ -1949,31 +1949,31 @@
       "game_id": "legobatmanlegacyofthedarkknight",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5a3c7cf97b71f78eeb09/",
       "original_download_url": null,
-      "status": "source-http-429",
+      "status": "no-direct-link",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=39478"
     },
     {
       "id": "4b24d00068d3417d9e43",
       "game_id": "misery",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4b24d00068d3417d9e43/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74101",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37026"
     },
     {
       "id": "1d5115790f8e58f9ddc5",
       "game_id": "misery",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1d5115790f8e58f9ddc5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74139",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37049"
     },
     {
       "id": "7a8e2805737689f9e1ef",
       "game_id": "painkiller",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/7a8e2805737689f9e1ef/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74051",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36978"
     },
     {
@@ -2004,16 +2004,16 @@
       "id": "bce7fc327de8708c98eb",
       "game_id": "quarantinezonethelastcheck",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/bce7fc327de8708c98eb/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=70488",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35246"
     },
     {
       "id": "1e20373790e2cbc9fd65",
       "game_id": "romeoisadeadman",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1e20373790e2cbc9fd65/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=80327",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38210"
     },
     {
@@ -2036,48 +2036,48 @@
       "id": "2252f0b21b3a9f8d0319",
       "game_id": "routine",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2252f0b21b3a9f8d0319/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=75091",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37537"
     },
     {
       "id": "218998f2689d15f48f05",
       "game_id": "runefactoryguardiansofazuma",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/218998f2689d15f48f05/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71320",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35309"
     },
     {
       "id": "769e106790c0dab6eb1a",
       "game_id": "runescapedragonwilds",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/769e106790c0dab6eb1a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=69345",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=34695"
     },
     {
       "id": "a559645154015c543b24",
       "game_id": "runescapedragonwilds",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a559645154015c543b24/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=69661",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=34823"
     },
     {
       "id": "24cd635490237535fc0b",
       "game_id": "rvthereyet",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/24cd635490237535fc0b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81611",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40786"
     },
     {
       "id": "dcc69cacae2afed55066",
       "game_id": "rvthereyet",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/dcc69cacae2afed55066/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=82172",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37043"
     },
     {
@@ -2092,32 +2092,32 @@
       "id": "bb1ac6c44685e0e898f4",
       "game_id": "silenthillf",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/bb1ac6c44685e0e898f4/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=73269",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36613"
     },
     {
       "id": "a5df9d96ba3866870cce",
       "game_id": "silenthilltownfall",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a5df9d96ba3866870cce/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81880",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40882"
     },
     {
       "id": "c9110767960197e0648e",
       "game_id": "silenthilltownfall",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c9110767960197e0648e/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81857",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40888"
     },
     {
       "id": "a732404e803d78adfbcb",
       "game_id": "starrupture",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a732404e803d78adfbcb/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=75692",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37895"
     },
     {
@@ -2132,8 +2132,8 @@
       "id": "c04e269e2c286ee1cccd",
       "game_id": "starwarszerocompany",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c04e269e2c286ee1cccd/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81079",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40565"
     },
     {
@@ -2148,16 +2148,16 @@
       "id": "cb50e4d190e59f9aff19",
       "game_id": "styxbladesofgreed",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/cb50e4d190e59f9aff19/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76509",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38270"
     },
     {
       "id": "daadea3312d9d349c7b4",
       "game_id": "styxbladesofgreed",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/daadea3312d9d349c7b4/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76520",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38275"
     },
     {
@@ -2172,8 +2172,8 @@
       "id": "214acdf63a8f0c612c0d",
       "game_id": "subnautica2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/214acdf63a8f0c612c0d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=78596",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=39388"
     },
     {
@@ -2196,8 +2196,8 @@
       "id": "061e55a402ab88874a15",
       "game_id": "thelastcaretaker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/061e55a402ab88874a15/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81493",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40732"
     },
     {
@@ -2205,15 +2205,15 @@
       "game_id": "thelastcaretaker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/989f4e3065334d45eff8/",
       "original_download_url": null,
-      "status": "source-http-429",
+      "status": "no-direct-link",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37179"
     },
     {
       "id": "5ec5c7bcfaf154cf3588",
       "game_id": "thelordoftheringsreturntomoria",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5ec5c7bcfaf154cf3588/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72188",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36091"
     },
     {
@@ -2236,64 +2236,64 @@
       "id": "ed20fa62aebaabe7462b",
       "game_id": "vampirebloodlines",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ed20fa62aebaabe7462b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59500",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29040"
     },
     {
       "id": "f329a835159f2af90cbb",
       "game_id": "vampirebloodlines",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f329a835159f2af90cbb/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=4632",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=3679"
     },
     {
       "id": "d9be768d5573fcdcc229",
       "game_id": "vtmbloodlines2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/d9be768d5573fcdcc229/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74040",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36970"
     },
     {
       "id": "fa2a8d3eb260b37212cd",
       "game_id": "dragonsdogma",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/fa2a8d3eb260b37212cd/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58773",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28642"
     },
     {
       "id": "dc2752c9feb6b181e5c5",
       "game_id": "dragonsdogma",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/dc2752c9feb6b181e5c5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=1576",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=1204"
     },
     {
       "id": "2bf882acf0a1ebfb6632",
       "game_id": "dragonage",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2bf882acf0a1ebfb6632/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58767",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=172"
     },
     {
       "id": "123b36f25b3fcc873d0d",
       "game_id": "dragonage",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/123b36f25b3fcc873d0d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=3566",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=2804"
     },
     {
       "id": "a803e46f5798cfd780cf",
       "game_id": "witcher",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a803e46f5798cfd780cf/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76462",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38255"
     },
     {
@@ -2308,8 +2308,8 @@
       "id": "1abb0ac0c662883c593f",
       "game_id": "witcher2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1abb0ac0c662883c593f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58419",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28415"
     },
     {
@@ -2324,8 +2324,8 @@
       "id": "1c419113df2e264990d6",
       "game_id": "farcry3",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1c419113df2e264990d6/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=65224",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32706"
     },
     {
@@ -2356,32 +2356,32 @@
       "id": "8c3cf4b2bf108eed25b8",
       "game_id": "neverwinter2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8c3cf4b2bf108eed25b8/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=77",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=104"
     },
     {
       "id": "6799d3031da45e1668e1",
       "game_id": "neverwinter2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/6799d3031da45e1668e1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=2050",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=1588"
     },
     {
       "id": "f0d2ee5701d07569d67b",
       "game_id": "left4dead2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f0d2ee5701d07569d67b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59015",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28793"
     },
     {
       "id": "9c203bf0e816ece4ef54",
       "game_id": "left4dead2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9c203bf0e816ece4ef54/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=79868",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=39962"
     },
     {
@@ -2404,80 +2404,80 @@
       "id": "daba0724def7d2c24412",
       "game_id": "dishonored",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/daba0724def7d2c24412/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=78017",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=39061"
     },
     {
       "id": "9295615376bf29fff6bf",
       "game_id": "dishonored",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9295615376bf29fff6bf/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58756",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=171"
     },
     {
       "id": "06921405f4a54bd3925d",
       "game_id": "thesims3",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/06921405f4a54bd3925d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62160",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=19191"
     },
     {
       "id": "880b53165b51233ab5cb",
       "game_id": "thesims4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/880b53165b51233ab5cb/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56401",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27487"
     },
     {
       "id": "6fe8864539943e34fa5d",
       "game_id": "thesims4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/6fe8864539943e34fa5d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55452",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=19222"
     },
     {
       "id": "daaacd71fb2d57656257",
       "game_id": "residentevil4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/daaacd71fb2d57656257/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61304",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30034"
     },
     {
       "id": "4dc84c73237a851bacf4",
       "game_id": "residentevil4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4dc84c73237a851bacf4/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=42371",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=20122"
     },
     {
       "id": "c2088303fe6f3b67034f",
       "game_id": "graveyardkeeper2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c2088303fe6f3b67034f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=82468",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40933"
     },
     {
       "id": "19447ba473f9de6d8f5f",
       "game_id": "graveyardkeeper2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/19447ba473f9de6d8f5f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=82282",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40907"
     },
     {
       "id": "895d6ea3a57fb9c58931",
       "game_id": "groundbranch",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/895d6ea3a57fb9c58931/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58967",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28763"
     },
     {
@@ -2524,24 +2524,24 @@
       "id": "77a1b16b5dffdeec8c20",
       "game_id": "reanimal",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/77a1b16b5dffdeec8c20/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=73884",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36902"
     },
     {
       "id": "033d426ee79c42b442a6",
       "game_id": "thebloodofdawnwalker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/033d426ee79c42b442a6/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81382",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40698"
     },
     {
       "id": "bd94f685ca1cbe115334",
       "game_id": "thebloodofdawnwalker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/bd94f685ca1cbe115334/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81273",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40651"
     },
     {
@@ -2556,8 +2556,8 @@
       "id": "50e01276a3dac2970b26",
       "game_id": "windrose",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/50e01276a3dac2970b26/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=79626",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=39873"
     },
     {
@@ -2572,40 +2572,40 @@
       "id": "56057e7018e449b4ec40",
       "game_id": "phantombladezero",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/56057e7018e449b4ec40/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=82942",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=41297"
     },
     {
       "id": "b27ff256a19ec9359b1e",
       "game_id": "abioticfactor",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b27ff256a19ec9359b1e/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72863",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36447"
     },
     {
       "id": "87a1c36837f4e35a54ed",
       "game_id": "abioticfactor",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/87a1c36837f4e35a54ed/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71854",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35905"
     },
     {
       "id": "d7d80b157ad1f8893452",
       "game_id": "dispatch",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/d7d80b157ad1f8893452/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74914",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37502"
     },
     {
       "id": "48ff8070287867ffc3ab",
       "game_id": "humanitz",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/48ff8070287867ffc3ab/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=60206",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29388"
     },
     {
@@ -2628,16 +2628,16 @@
       "id": "b2432a16fac2ccef7c7f",
       "game_id": "octopathtraveler",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b2432a16fac2ccef7c7f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59098",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28837"
     },
     {
       "id": "693c68ed4cfe461b81b1",
       "game_id": "octopathtraveler0",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/693c68ed4cfe461b81b1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=78176",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37780"
     },
     {
@@ -2660,8 +2660,8 @@
       "id": "63ca96bd15cd0f1c2dd6",
       "game_id": "surroundead",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/63ca96bd15cd0f1c2dd6/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=67702",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33952"
     },
     {
@@ -2700,16 +2700,16 @@
       "id": "a4ac6de01d189b87c1c5",
       "game_id": "titanquest2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a4ac6de01d189b87c1c5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72007",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35986"
     },
     {
       "id": "8ba914bc5512802cde27",
       "game_id": "titanquest2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8ba914bc5512802cde27/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71992",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35979"
     },
     {
@@ -2724,48 +2724,48 @@
       "id": "dc29e162a60b4aba0c9e",
       "game_id": "trepang2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/dc29e162a60b4aba0c9e/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=57192",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27864"
     },
     {
       "id": "f70151b60f3335ecdfe0",
       "game_id": "vein",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f70151b60f3335ecdfe0/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74122",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37040"
     },
     {
       "id": "45a99d0eac5a5c082104",
       "game_id": "vein",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/45a99d0eac5a5c082104/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61842",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30322"
     },
     {
       "id": "3e31fd49d1da8f4c9055",
       "game_id": "voidtrain",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3e31fd49d1da8f4c9055/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74438",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37211"
     },
     {
       "id": "99bbbc86d7255b920cba",
       "game_id": "voidtrain",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/99bbbc86d7255b920cba/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=82021",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40676"
     },
     {
       "id": "2f4ab1ea5df328f5c0b9",
       "game_id": "whiskerwood",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2f4ab1ea5df328f5c0b9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74425",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37203"
     },
     {
@@ -2780,16 +2780,16 @@
       "id": "bb71c1dd273fbec77bc9",
       "game_id": "witchfire",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/bb71c1dd273fbec77bc9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=78445",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=25853"
     },
     {
       "id": "71570be24a38dc235eb3",
       "game_id": "highonlife",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/71570be24a38dc235eb3/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62302",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30597"
     },
     {
@@ -2820,24 +2820,24 @@
       "id": "55d89c57f083b3b788a8",
       "game_id": "manorlords",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/55d89c57f083b3b788a8/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=77206",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38577"
     },
     {
       "id": "a33c68208eafb3ecd241",
       "game_id": "manorlords",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a33c68208eafb3ecd241/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59298",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28876"
     },
     {
       "id": "0bebfc3ac0fe4259c69b",
       "game_id": "gothamknights",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0bebfc3ac0fe4259c69b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62503",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30703"
     },
     {
@@ -2852,8 +2852,8 @@
       "id": "60906c05395f964b8eeb",
       "game_id": "grimdawn",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/60906c05395f964b8eeb/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=23798",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=5924"
     },
     {
@@ -2876,16 +2876,16 @@
       "id": "353ce74c745a5edb3326",
       "game_id": "ahatintime",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/353ce74c745a5edb3326/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=54499",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26442"
     },
     {
       "id": "4635c99282dd20b1edc9",
       "game_id": "kenshi",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4635c99282dd20b1edc9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55229",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26889"
     },
     {
@@ -2900,16 +2900,16 @@
       "id": "a38ee24d0f706b86e4df",
       "game_id": "xrebirth",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a38ee24d0f706b86e4df/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=7656",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=444"
     },
     {
       "id": "347b257795782eadda59",
       "game_id": "rimworld",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/347b257795782eadda59/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62164",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30484"
     },
     {
@@ -2940,64 +2940,64 @@
       "id": "f683fa9852653a1602e9",
       "game_id": "granblue-fantasy-relink",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f683fa9852653a1602e9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=79891",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27571"
     },
     {
       "id": "897e85c4dac6c4eb47fb",
       "game_id": "ninja-gaiden-2-black",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/897e85c4dac6c4eb47fb/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=67836",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33462"
     },
     {
       "id": "0207e78a34e8916157b1",
       "game_id": "ninja-gaiden-4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/0207e78a34e8916157b1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=74100",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37025"
     },
     {
       "id": "f6c709cd29d4f300eb84",
       "game_id": "noita",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f6c709cd29d4f300eb84/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62713",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30849"
     },
     {
       "id": "d45fa0a7f66491e5f61d",
       "game_id": "noita",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/d45fa0a7f66491e5f61d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=19341",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=10441"
     },
     {
       "id": "9294c4ed14052677d3d7",
       "game_id": "nomanssky",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9294c4ed14052677d3d7/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61490",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30134"
     },
     {
       "id": "bff5fb18cf981a6b30ce",
       "game_id": "nomanssky",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/bff5fb18cf981a6b30ce/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=53567",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=25712"
     },
     {
       "id": "ff44b3491796c04ee04d",
       "game_id": "wo-long-fallen-dynasty",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ff44b3491796c04ee04d/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=63868",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=31606"
     },
     {
@@ -3012,8 +3012,8 @@
       "id": "380ae106c08fffa85b90",
       "game_id": "dragon-sword-awakening",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/380ae106c08fffa85b90/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=80569",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40304"
     },
     {
@@ -3021,7 +3021,7 @@
       "game_id": "dragon-sword-awakening",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/867e6dcadd78ae02559a/",
       "original_download_url": null,
-      "status": "source-http-429",
+      "status": "no-direct-link",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40152"
     },
     {
@@ -3036,16 +3036,16 @@
       "id": "2785fa3cbea50e5d1321",
       "game_id": "devil-may-cry-5",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2785fa3cbea50e5d1321/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=72005",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35982"
     },
     {
       "id": "f9c6ea3b9f96154df289",
       "game_id": "monster-hunter-rise",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f9c6ea3b9f96154df289/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55273",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26913"
     },
     {
@@ -3084,16 +3084,16 @@
       "id": "c37734eb8d1116beab34",
       "game_id": "onimusha-2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c37734eb8d1116beab34/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71472",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35676"
     },
     {
       "id": "fc82eb7c6afc1b6e795c",
       "game_id": "onimusha-way-of-the-sword",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/fc82eb7c6afc1b6e795c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81231",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40631"
     },
     {
@@ -3101,7 +3101,7 @@
       "game_id": "onimusha-way-of-the-sword",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/72e56dd5f3fe3b7c4efc/",
       "original_download_url": null,
-      "status": "source-http-429",
+      "status": "source-http-403",
       "source_url": "https://fearlessrevolution.com/search.php?author_id=7827&sr=posts"
     },
     {
@@ -3132,24 +3132,24 @@
       "id": "3bbf8960569a22d022c4",
       "game_id": "resident-evil-3",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3bbf8960569a22d022c4/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=22819",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=11883"
     },
     {
       "id": "68f4a12d46527b59e463",
       "game_id": "resident-evil-4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/68f4a12d46527b59e463/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59251",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28918"
     },
     {
       "id": "3f02650d0dd8ba6c5faa",
       "game_id": "resident-evil-4",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3f02650d0dd8ba6c5faa/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61304",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30034"
     },
     {
@@ -3164,8 +3164,8 @@
       "id": "f06625c9298165f05e47",
       "game_id": "resident-evil-7",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f06625c9298165f05e47/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=51887",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=25064"
     },
     {
@@ -3180,8 +3180,8 @@
       "id": "fb09f178a4ed989e4d9c",
       "game_id": "resident-evil-village",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/fb09f178a4ed989e4d9c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=52094",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=25073"
     },
     {
@@ -3196,8 +3196,8 @@
       "id": "b33e967d2db2dc35cdb6",
       "game_id": "dragons-dogma-2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b33e967d2db2dc35cdb6/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59869",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28356"
     },
     {
@@ -3212,40 +3212,40 @@
       "id": "8a7d50609c40f169e871",
       "game_id": "codevein",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/8a7d50609c40f169e871/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56792",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27654"
     },
     {
       "id": "a35e1e06a7f2431b0c26",
       "game_id": "codevein",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a35e1e06a7f2431b0c26/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=18384",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=10382"
     },
     {
       "id": "6716a21b9c6f644fcc37",
       "game_id": "bloodstainedritualofthenight",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/6716a21b9c6f644fcc37/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61185",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29971"
     },
     {
       "id": "6a2e58932a2ac4554c3a",
       "game_id": "bloodstainedritualofthenight",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/6a2e58932a2ac4554c3a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=71377",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35618"
     },
     {
       "id": "77b4cf0ad46a4a750df3",
       "game_id": "kerbal-space-program",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/77b4cf0ad46a4a750df3/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59006",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28784"
     },
     {
@@ -3260,40 +3260,40 @@
       "id": "7ee39d548be2927e5608",
       "game_id": "starbound",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/7ee39d548be2927e5608/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=2119",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=1649"
     },
     {
       "id": "a78f1369fd3023003808",
       "game_id": "team-fortress-2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/a78f1369fd3023003808/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=67695",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32755"
     },
     {
       "id": "21cae3883d63cc6ace0f",
       "game_id": "xcom2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/21cae3883d63cc6ace0f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62205",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30523"
     },
     {
       "id": "25597a80244fadac2aaf",
       "game_id": "xcom2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/25597a80244fadac2aaf/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59629",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29102"
     },
     {
       "id": "29bd069a06eedf36e408",
       "game_id": "xcom2-wotc",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/29bd069a06eedf36e408/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62205",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30523"
     },
     {
@@ -3308,40 +3308,40 @@
       "id": "698aea04b8c298d99541",
       "game_id": "kotor",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/698aea04b8c298d99541/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59343",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28961"
     },
     {
       "id": "f918313121503c224925",
       "game_id": "kotor",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f918313121503c224925/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=4264",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=3376"
     },
     {
       "id": "3bd3b4f3509412473dd3",
       "game_id": "kotor2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3bd3b4f3509412473dd3/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=75838",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=37976"
     },
     {
       "id": "f9f40f6e4373128249aa",
       "game_id": "kotor2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f9f40f6e4373128249aa/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=2344",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=1873"
     },
     {
       "id": "5126bfb87eb83fb723f1",
       "game_id": "subnauticabelowzero",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5126bfb87eb83fb723f1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62170",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30490"
     },
     {
@@ -3364,16 +3364,16 @@
       "id": "aaf13352818c84f44ef9",
       "game_id": "darksouls2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/aaf13352818c84f44ef9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61277",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30015"
     },
     {
       "id": "96c7139c4affd9d00f4f",
       "game_id": "darksoulsremastered",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/96c7139c4affd9d00f4f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58699",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28593"
     },
     {
@@ -3388,24 +3388,24 @@
       "id": "c0335aaae07752e10824",
       "game_id": "jurassicworldevolution",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/c0335aaae07752e10824/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55226",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26886"
     },
     {
       "id": "4ae19d1aa76ba7976d22",
       "game_id": "jurassicworldevolution",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4ae19d1aa76ba7976d22/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=11002",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=7215"
     },
     {
       "id": "5a40bfd94aebe521be67",
       "game_id": "sekiro",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5a40bfd94aebe521be67/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56394",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27480"
     },
     {
@@ -3420,16 +3420,16 @@
       "id": "6eafe6e9926fc7fb70c0",
       "game_id": "metalgearsolidvtpp",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/6eafe6e9926fc7fb70c0/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62830",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30915"
     },
     {
       "id": "45fb17b1d2213ab4e59f",
       "game_id": "metalgearsolidvtpp",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/45fb17b1d2213ab4e59f/",
-      "original_download_url": null,
-      "status": "no-public-release",
+      "original_download_url": "https://raw.githubusercontent.com/Aholicknight/MGSV-Cheat-Engine-Tables/3465e7572ef31841cc0e499877cb5c09b50412e0/Cheat%20Tables/Metal%20Gear%20Solid%205%20Phantom%20Pain.CT",
+      "status": "verified-ct",
       "source_url": "https://github.com/Aholicknight/MGSV-Cheat-Engine-Tables"
     },
     {
@@ -3460,8 +3460,8 @@
       "id": "b36f64da356cbc2937f5",
       "game_id": "shadowrunreturns",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b36f64da356cbc2937f5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=50934",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=24755"
     },
     {
@@ -3484,8 +3484,8 @@
       "id": "6aaecf048eb9662a76c3",
       "game_id": "madmax",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/6aaecf048eb9662a76c3/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61303",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30033"
     },
     {
@@ -3516,8 +3516,8 @@
       "id": "f8b2140334ce2b2d44e1",
       "game_id": "assassinscreedblackflagresynced",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f8b2140334ce2b2d44e1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=79921",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40013"
     },
     {
@@ -3532,8 +3532,8 @@
       "id": "82ea86afb75122f7cf35",
       "game_id": "aplaguetalerequiem",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/82ea86afb75122f7cf35/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/viewtopic.php?f=4&t=34854&sid=037774cf07a00306c87c3b8a015c41b5",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=34854"
     },
     {
@@ -3548,8 +3548,8 @@
       "id": "5fb43e49e1c69e87865e",
       "game_id": "carriercommand2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5fb43e49e1c69e87865e/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56781",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27646"
     },
     {
@@ -3564,248 +3564,248 @@
       "id": "d49df1a99d6bb4bc533f",
       "game_id": "potionpermit",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/d49df1a99d6bb4bc533f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62594",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30768"
     },
     {
       "id": "1b77d22a8531a65d9e54",
       "game_id": "potionpermit",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1b77d22a8531a65d9e54/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58427",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27570"
     },
     {
       "id": "9984c69b2b8a7885d28f",
       "game_id": "goldminingsimulator",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/9984c69b2b8a7885d28f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62013",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30411"
     },
     {
       "id": "5cc1f731bb019f05eea1",
       "game_id": "goldminingsimulator",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5cc1f731bb019f05eea1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76907",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=34787"
     },
     {
       "id": "82edec93143ee9ffb555",
       "game_id": "hardspaceshipbreaker",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/82edec93143ee9ffb555/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=73729",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=36825"
     },
     {
       "id": "74fab881f6229bc0da32",
       "game_id": "lumaisland",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/74fab881f6229bc0da32/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=79724",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=39925"
     },
     {
       "id": "3fdf0416fc1628d8487a",
       "game_id": "lumaisland",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3fdf0416fc1628d8487a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=64744",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=32446"
     },
     {
       "id": "ff02e1324769e8d40bed",
       "game_id": "tcgcardshopsimulator",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/ff02e1324769e8d40bed/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=67443",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33822"
     },
     {
       "id": "331caef8b74816a1ba75",
       "game_id": "tcgcardshopsimulator",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/331caef8b74816a1ba75/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=78395",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=31284"
     },
     {
       "id": "007b1236e9686516737a",
       "game_id": "onepieceodyssey",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/007b1236e9686516737a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62718",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30855"
     },
     {
       "id": "efd5b38dbc23b74e45e9",
       "game_id": "onepieceodyssey",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/efd5b38dbc23b74e45e9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=47826",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=22962"
     },
     {
       "id": "1649b4a93168680e49f1",
       "game_id": "aliensfireteamelite",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/1649b4a93168680e49f1/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61173",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29959"
     },
     {
       "id": "e2eebc05ca6f2a941f74",
       "game_id": "aliensfireteamelite",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e2eebc05ca6f2a941f74/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=35841",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=17163"
     },
     {
       "id": "f44ce1a4c7728cd963a9",
       "game_id": "minecraftdungeons",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f44ce1a4c7728cd963a9/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=77834",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38838"
     },
     {
       "id": "30dc8c32c4f3cc836c96",
       "game_id": "minecraftdungeons",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/30dc8c32c4f3cc836c96/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=81415",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=40707"
     },
     {
       "id": "3ba6c8780f45daf2dd86",
       "game_id": "greedfall",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/3ba6c8780f45daf2dd86/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55199",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=26863"
     },
     {
       "id": "5bc00081d793bdda178c",
       "game_id": "greedfall",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5bc00081d793bdda178c/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=17378",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=10230"
     },
     {
       "id": "36e90be1ff6459652b12",
       "game_id": "nierautomata",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/36e90be1ff6459652b12/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=57732",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28159"
     },
     {
       "id": "caa1c211f3df069c64de",
       "game_id": "nierautomata",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/caa1c211f3df069c64de/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=70356",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=35172"
     },
     {
       "id": "195c8eaa22c1d598c1d5",
       "game_id": "dragonballzkakarot",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/195c8eaa22c1d598c1d5/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=58770",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28640"
     },
     {
       "id": "93bb1764765fe029375a",
       "game_id": "dragonballzkakarot",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/93bb1764765fe029375a/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=70638",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=29350"
     },
     {
       "id": "5ef6664727361141d950",
       "game_id": "fnafsecuritybreach",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5ef6664727361141d950/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=63848",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=31582"
     },
     {
       "id": "f701d96a72de8f6f7717",
       "game_id": "fnafsecuritybreach",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f701d96a72de8f6f7717/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=60698",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=18579"
     },
     {
       "id": "4fdabdb6dc7a37f5e3ef",
       "game_id": "marvelsmidnightsuns",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4fdabdb6dc7a37f5e3ef/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=47110",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=22232"
     },
     {
       "id": "4c85d9d296c692913c32",
       "game_id": "marvelsmidnightsuns",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4c85d9d296c692913c32/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62527",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30720"
     },
     {
       "id": "e2b7439c2f5d52bf3fdd",
       "game_id": "totalwarthreekingdoms",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/e2b7439c2f5d52bf3fdd/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=62192",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30510"
     },
     {
       "id": "4dc5a0b5443247b33506",
       "game_id": "totalwarthreekingdoms",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/4dc5a0b5443247b33506/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=43487",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=9497"
     },
     {
       "id": "f52c1435ac12c45f93ca",
       "game_id": "totalwarwarhammer3",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f52c1435ac12c45f93ca/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=40106",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=19224"
     },
     {
       "id": "328d0aa2b292e32810be",
       "game_id": "totalwarwarhammer3",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/328d0aa2b292e32810be/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=43488",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=19360"
     },
     {
       "id": "f27c94bbda28e540c8e3",
       "game_id": "carmechanicsimulator2021",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/f27c94bbda28e540c8e3/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=56780",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27645"
     },
     {
       "id": "08cae0d6adcf32522c76",
       "game_id": "returntocastlewolfenstein",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/08cae0d6adcf32522c76/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=59268",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=28924"
     },
     {
@@ -3820,8 +3820,8 @@
       "id": "edfd6e3f3407dbbe7965",
       "game_id": "reddeadredemption2",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/edfd6e3f3407dbbe7965/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=61382",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=30070"
     },
     {
@@ -3836,48 +3836,48 @@
       "id": "6bb228d118bcc096c951",
       "game_id": "slimerancher",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/6bb228d118bcc096c951/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=55386",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=27001"
     },
     {
       "id": "b527c9270376806875f4",
       "game_id": "slimerancher",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/b527c9270376806875f4/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=189",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=195"
     },
     {
       "id": "87f10612922f983ef64f",
       "game_id": "tombraidertrilogy2remastered",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/87f10612922f983ef64f/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=69473",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=33868"
     },
     {
       "id": "158f38a189b41c2cb93b",
       "game_id": "tombraidertrilogy2remastered",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/158f38a189b41c2cb93b/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=76343",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=38084"
     },
     {
       "id": "5ca97c46f6711ffc53ee",
       "game_id": "galacticcivilizations3",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/5ca97c46f6711ffc53ee/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=23297",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=108"
     },
     {
       "id": "2e3baa2ebabbdca9da38",
       "game_id": "galacticcivilizations3",
       "redirect_url": "https://yequ172672.github.io/YequModManager-Release/ct/2e3baa2ebabbdca9da38/",
-      "original_download_url": null,
-      "status": "source-http-429",
+      "original_download_url": "https://fearlessrevolution.com/download/file.php?id=2910",
+      "status": "author-link-unverified",
       "source_url": "https://fearlessrevolution.com/viewtopic.php?t=2309"
     }
   ]
